@@ -275,8 +275,8 @@
       "name": "Half the Battle",
       "type": "expansion",
       "status": "active",
-      "releaseDate": "2024-02-01",
-      "factionCount": 3,
+      "releaseDate": "2025-12-01",
+      "factionCount": 4,
       "description": "80s action cartoon parodies"
     }
   ],
@@ -990,13 +990,20 @@
     },
     {
       "id": 102,
+      "name": "G.I. Gerald",
+      "setId": 31,
+      "theme": "80s Cartoons",
+      "description": "G.I. Joe parody faction"
+    },
+    {
+      "id": 103,
       "name": "Pearl and the Images",
       "setId": 31,
       "theme": "80s Cartoons",
       "description": "Gem parody faction"
     },
     {
-      "id": 103,
+      "id": 104,
       "name": "Rulers of the Cosmos",
       "setId": 31,
       "theme": "80s Cartoons",
