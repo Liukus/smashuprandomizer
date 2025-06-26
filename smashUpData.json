@@ -1,5 +1,5 @@
 {
-  "version": 1.0, // Major.minor for Sets/Factions.descriptions/bugfixes
+  "version": 1.0,
   "sets": [
     {
       "id": 1,
