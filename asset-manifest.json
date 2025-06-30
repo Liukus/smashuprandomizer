@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/smashuprandomizer/static/js/main.fd531c54.js",
+    "main.js": "/smashuprandomizer/static/js/main.b170dbd4.js",
     "index.html": "/smashuprandomizer/index.html",
-    "main.fd531c54.js.map": "/smashuprandomizer/static/js/main.fd531c54.js.map"
+    "main.b170dbd4.js.map": "/smashuprandomizer/static/js/main.b170dbd4.js.map"
   },
   "entrypoints": [
-    "static/js/main.fd531c54.js"
+    "static/js/main.b170dbd4.js"
   ]
 }
