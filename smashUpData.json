@@ -1,5 +1,5 @@
 {
-  "version": 1.11,
+  "version": 1.12,
   "sets": [
     {
       "id": 1,
@@ -122,7 +122,7 @@
       "id": 14,
       "name": "Smash Up Sheep Promo",
       "type": "promo",
-      "status": "active",
+      "status": "discontinued",
       "releaseDate": "2018-03-01",
       "factionCount": 1,
       "description": "Single faction promotional pack"
@@ -250,7 +250,7 @@
       "type": "expansion",
       "status": "active",
       "releaseDate": "2022-08-01",
-      "factionCount": 4,
+      "factionCount": 5,
       "description": "Anniversary edition with fan favorites"
     },
     {
@@ -670,7 +670,7 @@
     {
       "id": 56,
       "name": "Sheep",
-      "setId": 14,
+      "setId": 28,
       "theme": "Animals",
       "description": "Movement and action copying"
     },
