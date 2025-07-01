@@ -1,106 +1,113 @@
-Smash Up Data JSON
-This repository contains a JSON file (smashUpData.json) that provides structured information about the various sets and factions from the popular card game, Smash Up. This README explains the structure and meaning of the data within this file.
+# Smash Up Data JSON
 
-File Structure
-The smashUpData.json file is a single JSON object with two main top-level keys:
+This repository contains a JSON file (`smashUpData.json`) that provides structured information about the various sets and factions from the popular card game, *Smash Up*. This README explains the structure and meaning of the data within this file.
 
-version: The version number of the data schema.
+## File Structure
 
-sets: An array of objects, each representing a Smash Up game set (base game, expansion, promo, etc.).
+The `smashUpData.json` file is a single JSON object with two main top-level keys:
 
-factions: An array of objects, each representing a specific faction available in Smash Up.
+* `version`: The version number of the data schema.
 
-Key Definitions
-Top-Level Keys
-version (Number):
+* `sets`: An array of objects, each representing a *Smash Up* game set (base game, expansion, promo, etc.).
 
-Indicates the version of the smashUpData.json schema. This can be useful for tracking changes or ensuring compatibility with applications that consume this data.
+* `factions`: An array of objects, each representing a specific faction available in *Smash Up*.
 
-sets (Array of Objects):
+## Key Definitions
 
-Each object in this array describes a particular Smash Up set.
+### Top-Level Keys
 
-factions (Array of Objects):
+* **`version`** (Number):
 
-Each object in this array describes a specific faction.
+  * Indicates the version of the `smashUpData.json` schema. This can be useful for tracking changes or ensuring compatibility with applications that consume this data.
 
-sets Array Object Keys
-Each object within the sets array has the following keys:
+* **`sets`** (Array of Objects):
 
-id (Number):
+  * Each object in this array describes a particular *Smash Up* set.
 
-A unique numerical identifier for the set.
+* **`factions`** (Array of Objects):
 
-name (String):
+  * Each object in this array describes a specific faction.
 
-The official name of the Smash Up set (e.g., "Core Set", "Awesome Level 9000").
+### `sets` Array Object Keys
 
-type (String):
+Each object within the `sets` array has the following keys:
 
-Categorizes the type of set. Possible values include:
+* **`id`** (Number):
 
-"base": The original core game.
+  * A unique numerical identifier for the set.
 
-"expansion": A standard expansion adding new factions and bases.
+* **`name`** (String):
 
-"standalone": A complete game that can be played on its own or combined with other Smash Up sets (e.g., "Smash Up: Munchkin").
+  * The official name of the *Smash Up* set (e.g., "Core Set", "Awesome Level 9000").
 
-"promo": A promotional set, often containing a single faction or special cards.
+* **`type`** (String):
 
-"storage": A box primarily for storing cards, sometimes including a new faction.
+  * Categorizes the type of set. Possible values include:
 
-status (String):
+    * `"base"`: The original core game.
 
-Indicates the current status of the set. Possible values:
+    * `"expansion"`: A standard expansion adding new factions and bases.
 
-"active": The set is currently in production and widely available.
+    * `"standalone"`: A complete game that can be played on its own or combined with other *Smash Up* sets (e.g., "Smash Up: Munchkin").
 
-"discontinued": The set is no longer actively produced.
+    * `"promo"`: A promotional set, often containing a single faction or special cards.
 
-releaseDate (String):
+    * `"storage"`: A box primarily for storing cards, sometimes including a new faction.
 
-The original release date of the set, in YYYY-MM-DD format.
+* **`status`** (String):
 
-factionCount (Number):
+  * Indicates the current status of the set. Possible values:
 
-The number of new factions introduced in this set. For sets like "TITANS" or "Dead Reckoning Promo", this might be 0 as they add other game components.
+    * `"active"`: The set is currently in production and widely available.
 
-description (String):
+    * `"discontinued"`: The set is no longer actively produced.
 
-A brief summary or description of the set.
+* **`releaseDate`** (String):
 
-factions Array Object Keys
-Each object within the factions array has the following keys:
+  * The original release date of the set, in `YYYY-MM-DD` format.
 
-id (Number):
+* **`factionCount`** (Number):
 
-A unique numerical identifier for the faction.
+  * The number of new factions introduced in this set. For sets like "TITANS" or "Dead Reckoning Promo", this might be 0 as they add other game components.
 
-name (String):
+* **`description`** (String):
 
-The official name of the faction (e.g., "Aliens", "Dinosaurs", "Robots").
+  * A brief summary or description of the set.
 
-setId (Number):
+### `factions` Array Object Keys
 
-The id of the set to which this faction originally belongs. This links the faction back to its release set in the sets array.
+Each object within the `factions` array has the following keys:
 
-theme (String):
+* **`id`** (Number):
 
-A general theme or category for the faction (e.g., "Sci-Fi", "Horror", "Fantasy", "Japanese").
+  * A unique numerical identifier for the faction.
 
-description (String):
+* **`name`** (String):
 
-A brief overview of the faction's primary mechanics or playstyle.
+  * The official name of the faction (e.g., "Aliens", "Dinosaurs", "Robots").
 
-Usage
-This JSON data can be used by applications, tools, or scripts that need to reference or display information about Smash Up sets and factions, such as:
+* **`setId`** (Number):
 
-Collection trackers
+  * The `id` of the set to which this faction originally belongs. This links the faction back to its release set in the `sets` array.
 
-Random faction generators
+* **`theme`** (String):
 
-Fan-made apps or websites
+  * A general theme or category for the faction (e.g., "Sci-Fi", "Horror", "Fantasy", "Japanese").
 
-Data analysis of Smash Up content
+* **`description`** (String):
+
+  * A brief overview of the faction's primary mechanics or playstyle.
+
+## Usage
+
+This JSON data can be used by applications, tools, or scripts that need to reference or display information about *Smash Up* sets and factions, such as:
+
+* Collection trackers
+
+* Random faction generators
+
+* Fan-made apps or websites
+
+* Data analysis of *Smash Up* content
 
 Feel free to use and contribute to this data!
