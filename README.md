@@ -1,5 +1,4 @@
-# Smash Up Draft Assistant <img height=100% src=favicon.ico>
-
+# Smash Up Randomizer <img height=100% src=favicon.ico>
 
  A web-based and mobile-friendly application designed to streamline the faction drafting process for the popular card game, **Smash Up!** This tool helps players quickly and fairly select their two factions for a game, offering multiple draft modes to suit different playstyles.
 
