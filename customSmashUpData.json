@@ -2,6 +2,13 @@
   "version": 1.0,
   "sets": [
     {
+      "id": 1001,
+      "name": "Smash Up Custom Factions Wiki",
+      "type": "expansion",
+      "status": "active",
+      "releaseDate": "",
+      "factionCount": 278,
+      "description": "Massive custom faction data"
     }
   ],
   "factions": [
