@@ -1,4 +1,9 @@
 {
+  "version": 1.0,
+  "sets": [
+    {
+    }
+  ],
   "factions": [
     {
       "name": "7 Wonders",
