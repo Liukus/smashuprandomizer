@@ -1,6 +1,6 @@
-# Smash Up Data JSON
+# Custom Smash Up Data JSON
 
-This repository contains a JSON file (`smashUpData.json`) that provides structured information about the various sets and factions from the popular card game, *Smash Up*. This README explains the structure and meaning of the data within this file.
+This repository contains a JSON file (`customSmashUpData.json`) that provides structured information about the custom factions from the Custom Smash Up Faction Wiki. This README explains the structure and meaning of the data within this file.
 
 ## File Structure
 
@@ -8,9 +8,9 @@ The `smashUpData.json` file is a single JSON object with two main top-level keys
 
 * `version`: The version number of the data schema.
 
-* `sets`: An array of objects, each representing a *Smash Up* game set (base game, expansion, promo, etc.).
+* `sets`: An array of objects, only here to provide a housing for the factions, as there are no sets in the custom wiki.
 
-* `factions`: An array of objects, each representing a specific faction available in *Smash Up*.
+* `factions`: An array of objects, each representing a specific faction created and maintained off of the Custom Smash Up Faction Wiki
 
 ## Key Definitions
 
@@ -22,7 +22,7 @@ The `smashUpData.json` file is a single JSON object with two main top-level keys
 
 * **`sets`** (Array of Objects):
 
-  * Each object in this array describes a particular *Smash Up* set.
+  * Only one object here, and it's essentially a dummy housing unit for all the custom factions
 
 * **`factions`** (Array of Objects):
 
@@ -78,25 +78,29 @@ Each object within the `sets` array has the following keys:
 
 Each object within the `factions` array has the following keys:
 
-* **`id`** (Number):
-
-  * A unique numerical identifier for the faction.
-
 * **`name`** (String):
 
   * The official name of the faction (e.g., "Aliens", "Dinosaurs", "Robots").
 
-* **`setId`** (Number):
+* **`complexity`** (Number):
 
-  * The `id` of the set to which this faction originally belongs. This links the faction back to its release set in the `sets` array.
+  * The `complexity` of the faction as listed on the Custom Smash Up Faction Wiki.
 
-* **`theme`** (String):
+* **`author`** (Number):
 
-  * A general theme or category for the faction (e.g., "Sci-Fi", "Horror", "Fantasy", "Japanese").
+  * The `author` or creator of the custom faction.
 
 * **`description`** (String):
 
   * A brief overview of the faction's primary mechanics or playstyle.
+
+* **`id`** (Number):
+
+  * A unique numerical identifier for the faction.
+    
+* **`setId`** (Number):
+
+  * The `id` of the set to which this faction originally belongs. This links the faction back to its release set in the `sets` array.
 
 ## Usage
 
