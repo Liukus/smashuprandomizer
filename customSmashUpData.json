@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.01,
   "sets": [
     {
       "id": 1001,
@@ -13,2252 +13,2252 @@
   ],
   "factions": [
     {
-      "name": "7 Wonders",
-      "complexity": "4/5",
-      "author": "LordMewtwo73",
-      "description": "Use the special resource symbols on your minions and modifiers to increase the power of your cards' abilities.",
       "id": 1001,
-      "setId": 1001
+      "name": "7 Wonders",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "4/5",
+      "description": "Use the special resource symbols on your minions and modifiers to increase the power of your cards' abilities."
     },
     {
-      "name": "1960s Batman",
-      "complexity": "2/5",
-      "author": "LordMewtwo73",
-      "description": "Holy Shufflebuilding, Batman! These characters have jumped straight out of the 1960s action TV show to save the city of Gotham! If you're in a pinch, make sure to use your handy Bat-Utility Belt!",
       "id": 1002,
-      "setId": 1001
+      "name": "1960s Batman",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "2/5",
+      "description": "Holy Shufflebuilding, Batman! These characters have jumped straight out of the 1960s action TV show to save the city of Gotham! If you're in a pinch, make sure to use your handy Bat-Utility Belt!"
     },
     {
-      "name": "Aboleths",
-      "complexity": "4/5",
-      "author": "ludichrisness",
-      "description": "Suppress other players' actions and store them in your genetic memory to use later.",
       "id": 1003,
-      "setId": 1001
+      "name": "Aboleths",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "4/5",
+      "description": "Suppress other players' actions and store them in your genetic memory to use later."
     },
     {
-      "name": "Ace Attorneys",
-      "complexity": "3.5/5",
-      "author": "SirErrant",
-      "description": "Bluff your way to victory by summoning witnesses from the discard pile and forcing opponents to Present their cards as evidence.",
       "id": 1004,
-      "setId": 1001
+      "name": "Ace Attorneys",
+      "setId": 1001,
+      "author": "SirErrant",
+      "complexity": "3.5/5",
+      "description": "Bluff your way to victory by summoning witnesses from the discard pile and forcing opponents to Present their cards as evidence."
     },
     {
-      "name": "Adventurers",
-      "complexity": "2/5",
-      "author": "Just Lazer DGE",
-      "description": "Strengthen Rookies.",
       "id": 1005,
-      "setId": 1001
+      "name": "Adventurers",
+      "setId": 1001,
+      "author": "Just Lazer DGE",
+      "complexity": "2/5",
+      "description": "Strengthen Rookies."
     },
     {
-      "name": "AIR",
-      "complexity": "4/5",
-      "author": "phantomic109",
-      "description": "Place counters on your minions at the start of the turn before cashing them in to score bases.",
       "id": 1006,
-      "setId": 1001
+      "name": "AIR",
+      "setId": 1001,
+      "author": "phantomic109",
+      "complexity": "4/5",
+      "description": "Place counters on your minions at the start of the turn before cashing them in to score bases."
     },
     {
-      "name": "Aiur Protoss",
-      "complexity": "3.5/5",
-      "author": "SDNuKe",
-      "description": "Hit opposing minions with controlled power debuffs and strike at the opportune moment with multiple breakpoint reduction effects.",
       "id": 1007,
-      "setId": 1001
+      "name": "Aiur Protoss",
+      "setId": 1001,
+      "author": "SDNuKe",
+      "complexity": "3.5/5",
+      "description": "Hit opposing minions with controlled power debuffs and strike at the opportune moment with multiple breakpoint reduction effects."
     },
     {
-      "name": "Alchemists",
-      "complexity": "5/5",
-      "author": "Berryl",
-      "description": "Empty out your deck to unlock a huge power spike, but have difficulty breaking bases before then.",
       "id": 1008,
-      "setId": 1001
+      "name": "Alchemists",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "5/5",
+      "description": "Empty out your deck to unlock a huge power spike, but have difficulty breaking bases before then."
     },
     {
-      "name": "Amnesia",
-      "complexity": "4/5",
-      "author": "CaptainCosmic",
-      "description": "Seed the fear and the madness in your opponents, take control of the board if they hide for too long.",
       "id": 1009,
-      "setId": 1001
+      "name": "Amnesia",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "4/5",
+      "description": "Seed the fear and the madness in your opponents, take control of the board if they hide for too long."
     },
     {
-      "name": "Ancient Aztecs",
-      "complexity": "3.5/5",
-      "author": "CaptainCosmic",
-      "description": "Offer your prisoners to the Aztec gods to ask for their blessings.",
       "id": 1010,
-      "setId": 1001
+      "name": "Ancient Aztecs",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "3.5/5",
+      "description": "Offer your prisoners to the Aztec gods to ask for their blessings."
     },
     {
-      "name": "Ancient Romans",
-      "complexity": "3/5",
-      "author": "phantomic109",
-      "description": "Retrigger the on-play abilities of your low-power minions.",
       "id": 1011,
-      "setId": 1001
+      "name": "Ancient Romans",
+      "setId": 1001,
+      "author": "phantomic109",
+      "complexity": "3/5",
+      "description": "Retrigger the on-play abilities of your low-power minions."
     },
     {
-      "name": "Angels",
-      "complexity": "2/5",
-      "author": "Sonus",
-      "description": "Give yourself permanent buffs that can benefit you each turn.  Use different Laws to control what players are allowed to do. All 5-power minions.",
       "id": 1012,
-      "setId": 1001
+      "name": "Angels",
+      "setId": 1001,
+      "author": "Sonus",
+      "complexity": "2/5",
+      "description": "Give yourself permanent buffs that can benefit you each turn. Use different Laws to control what players are allowed to do. All 5-power minions."
     },
     {
-      "name": "Animal Crossing",
-      "complexity": "2/5",
-      "author": "bae_gel",
-      "description": "Play base modifiers that react to playing a character there and go back to your deck once they're out of uses.",
       "id": 1013,
-      "setId": 1001
-    },
-    {
-      "name": "Archaeologists",
-      "complexity": "2.5/5",
-      "author": "ludichrisness",
-      "description": "Grow your civilization's legacy, then unearth it in the future.",
-      "id": 1014,
-      "setId": 1001
-    },
-    {
-      "name": "Astronomers",
-      "complexity": "5/5",
-      "author": "Berryl",
-      "description": "Order your deck to repeatedly reveal specific cards.",
-      "id": 1015,
-      "setId": 1001
-    },
-    {
-      "name": "Avatar the Last Wind Worker",
-      "complexity": "2/5",
-      "author": "Lonan",
-      "description": "Bend the Elements to your advantage, sneak attack unsuspecting bases, and gain benefits from self-destruction.",
-      "id": 1016,
-      "setId": 1001
-    },
-    {
-      "name": "Babies",
-      "complexity": "2/5",
-      "author": "Bandit",
-      "description": "Grow stronger over time and utilize start of turn effects.",
-      "id": 1017,
-      "setId": 1001
-    },
-    {
-      "name": "Bad Boys",
-      "complexity": "3/5",
-      "author": "Colinus Haggardus",
-      "description": "Radically bend the rules to hinder your opponents and boost yourself.",
-      "id": 1018,
-      "setId": 1001
-    },
-    {
-      "name": "Barbarians",
-      "complexity": "2/5",
-      "author": "Lonan",
-      "description": "Swarm bases and gain benefits through destruction.",
-      "id": 1019,
-      "setId": 1001
-    },
-    {
-      "name": "Bards",
-      "complexity": "2/5",
-      "author": "ludichrisness, normieleon",
-      "description": "Unlock your partner's true potential with the power of motivational song and an eclectic mix of actions.",
-      "id": 1020,
-      "setId": 1001
-    },
-    {
-      "name": "Baristas",
-      "complexity": "2.5/5",
-      "author": "inushiba",
-      "description": "Gain access to cards at any time by milling them into your discard pile, then brewing them later with the proper ingredients.",
-      "id": 1021,
-      "setId": 1001
-    },
-    {
-      "name": "Batman",
-      "complexity": "3/5",
-      "author": "Lonan",
-      "description": "Gain benefits by capturing opposing minions and returning them to the hand.",
-      "id": 1022,
-      "setId": 1001
-    },
-    {
-      "name": "Blacksmiths",
-      "complexity": "3/5",
-      "author": "Berryl",
-      "description": "Burn through your deck quickly and scale to the size of your discard pile.",
-      "id": 1023,
-      "setId": 1001
-    },
-    {
-      "name": "Blood Realm",
-      "complexity": "3/5",
-      "author": "Sonus",
-      "description": "Exsanguinate +1 power counters from your own cards to accomplish powerful, blood-fueled effects.",
-      "id": 1024,
-      "setId": 1001
-    },
-    {
-      "name": "Body Snatchers",
-      "complexity": "4/5",
-      "author": "Lonan",
-      "description": "Switch hands and decks with other players and gain the advantage by buffing minions you do not own.",
-      "id": 1025,
-      "setId": 1001
-    },
-    {
-      "name": "Boos",
-      "complexity": "3/5",
-      "author": "Lonan",
-      "description": "Have your minions pop in and out mysteriously through the mechanic of burying.",
-      "id": 1026,
-      "setId": 1001
-    },
-    {
-      "name": "Bounty Hunters",
-      "complexity": "2/5",
-      "author": "LordMewtwo73",
-      "description": "Place bounties on other players' minions and remove them from the board to collect your reward.",
-      "id": 1027,
-      "setId": 1001
-    },
-    {
-      "name": "Boxers",
-      "complexity": "2.5/5",
-      "author": "Captain Cardboard",
-      "description": "Carefully time and string together a flurry of action plays to boost your power and overwhelm your opponents.",
-      "id": 1028,
-      "setId": 1001
-    },
-    {
-      "name": "Breakfast Cereal Mascots",
-      "complexity": "2.5/5",
-      "author": "AndIQuote",
-      "description": "Stage minions and actions one turn and trigger powerful abilities at the start of your following turn.",
-      "id": 1029,
-      "setId": 1001
-    },
-    {
-      "name": "Brewers",
-      "complexity": "3/5",
-      "author": "Onassi",
-      "description": "Return cards in your hand, deck, and discard pile to the box for benefits and to thin your deck.",
-      "id": 1030,
-      "setId": 1001
-    },
-    {
-      "name": "Brink of the Future",
-      "complexity": "3.5/5",
-      "author": "Colinus Haggardus",
-      "description": "Harness the power of time itself to thwart your enemies' plans and seal every chance you have for victory.",
-      "id": 1031,
-      "setId": 1001
-    },
-    {
-      "name": "Bureaucrats",
-      "complexity": "3/5",
-      "author": "Lonan",
-      "description": "Control your opponent by creating stipulations that you benefit from.",
-      "id": 1032,
-      "setId": 1001
-    },
-    {
-      "name": "Butlers",
-      "complexity": "3/5",
-      "author": "Lonan",
-      "description": "Serve your partner faction by giving it anything that it might need. Reap benefits from storing cards.",
-      "id": 1033,
-      "setId": 1001
-    },
-    {
-      "name": "Calaveras (formerly Skeletons)",
-      "complexity": "2.5/5",
-      "author": "Awesom360",
-      "description": "Get extra draw and plays via cards that activate exclusively from the discard pile before returning to your deck.",
-      "id": 1034,
-      "setId": 1001
-    },
-    {
-      "name": "Caper Crew",
-      "complexity": "4/5",
-      "author": "AndIQuote",
-      "description": "Steal other players' cards and use them as resources to carry out a variety of plans with a team of six 5-power minions.",
-      "id": 1035,
-      "setId": 1001
-    },
-    {
-      "name": "Card Slingers",
-      "complexity": "3.5/5",
-      "author": "Sonus",
-      "description": "Revealing cards from your hand and top of deck for benefits (draw/extra plays, etc). Compare your hands/cards with opponents for benefits.",
-      "id": 1036,
-      "setId": 1001
-    },
-    {
-      "name": "Catastrophes",
-      "complexity": "2.5/5",
-      "author": "Lonan",
-      "description": "Replace bases with Catastrophes and gain benefits by power boosts and other benefits that are activated when a base is replaced.",
-      "id": 1037,
-      "setId": 1001
-    },
-    {
-      "name": "Cave Men",
-      "complexity": "3/5",
-      "author": "Crossfire7",
-      "description": "Play actions on bases, then destroy them to play extra minions and power up your minions.",
-      "id": 1038,
-      "setId": 1001
-    },
-    {
-      "name": "Centaurs (Munchkin)",
-      "complexity": "4/5",
-      "author": "GammaMania",
-      "description": "Play hybrid actions called Steeds, which can be played on either a minion or base and have different effects for each. Move your cards.",
-      "id": 1039,
-      "setId": 1001
-    },
-    {
-      "name": "Centurions",
-      "complexity": "3/5",
-      "author": "Bandit",
-      "description": "Smash additional decks together and utilize your partner faction to your full potential.",
-      "id": 1040,
-      "setId": 1001
-    },
-    {
-      "name": "Chaos Gods",
-      "complexity": "4/5",
-      "author": "Ludum",
-      "description": "Switch between your 4 titans at the right time to spread chaos across the board.",
-      "id": 1041,
-      "setId": 1001
-    },
-    {
-      "name": "Chess",
-      "complexity": "3/5",
-      "author": "Grey Sherpa",
-      "description": "Utilize a unique minion structure to perform heavy hitting minion combos directly out of your deck.",
-      "id": 1042,
-      "setId": 1001
-    },
-    {
-      "name": "Chimeras",
-      "complexity": "3.5/5",
-      "author": "Lonan",
-      "description": "Create Chimeras with powerful abilities by destroying their ingredients to make powerful minions with powerful effects.",
-      "id": 1043,
-      "setId": 1001
-    },
-    {
-      "name": "Chrono Drifters",
-      "complexity": "5/5",
-      "author": "Lime17",
-      "description": "Control the board with base modifiers and delay other players' threatening cards by putting them in stasis...all while managing a dangerous titan that any player could play, but nobody wants to!",
-      "id": 1044,
-      "setId": 1001
-    },
-    {
-      "name": "Chuck Norris (formerly Action Heroes)",
-      "complexity": "2/5",
-      "author": "Lonan",
-      "description": "Go for the Ultimate Win by spelling Chuck Norris's name or blast bases with letters of his name and powerful action heroes.",
-      "id": 1045,
-      "setId": 1001
-    },
-    {
-      "name": "Circus Performers",
-      "complexity": "3/5",
-      "author": "ludichrisness, Snakevin",
-      "description": "Play with a troupe of smaller units who boost each other up to activate their abilities together.",
-      "id": 1046,
-      "setId": 1001
-    },
-    {
-      "name": "Clone Army",
-      "complexity": "2/5",
-      "author": "LordMewtwo73",
-      "description": "Overwhelm opponents with powerful weaponry and destructive capabilities manned by multiple unique minions, most of whom share a common name.",
-      "id": 1047,
-      "setId": 1001
-    },
-    {
-      "name": "Clue",
-      "complexity": "5/5",
-      "author": "AndIQuote",
-      "description": "Engage all players in a murder mystery guessing game, using your cards to give yourself an advantage.",
-      "id": 1048,
-      "setId": 1001
-    },
-    {
-      "name": "Colosseum of Fools",
-      "complexity": "2.5/5",
-      "author": "Berryl",
-      "description": "Maintain the highest total power in play and corral opponents to where you want them.",
-      "id": 1049,
-      "setId": 1001
-    },
-    {
-      "name": "Colour Out Of Space, The",
-      "complexity": "4/5",
-      "author": "Snakevin, ludichrisness",
-      "description": "Play with ten identical minions who bottom-deck themselves to play actions off the top. Spend Madness for powerful effects before banishing it back to whence it came.",
-      "id": 1050,
-      "setId": 1001
-    },
-    {
-      "name": "Comedians",
-      "complexity": "2/5",
-      "author": "Lonan",
-      "description": "Play pranks on other players by increasing their power but taking it away when it counts.  Use your minions to power up bases other than their own.",
-      "id": 1051,
-      "setId": 1001
-    },
-    {
-      "name": "Conquerors",
-      "complexity": "3/5",
-      "author": "Lonan",
-      "description": "Get first place on bases quickly to generate momentum, converge minions during destruction, and gain benefits from having the upper hand.",
-      "id": 1052,
-      "setId": 1001
-    },
-    {
-      "name": "Cooking Mama",
-      "complexity": "3/5",
-      "author": "LordMewtwo73",
-      "description": "Race against time to complete recipes and wow the family! Use the new Mission cards to spice up your game and serve up some victory!",
-      "id": 1053,
-      "setId": 1001
-    },
-    {
-      "name": "Cosmoballers",
-      "complexity": "3/5",
-      "author": "Onassi",
-      "description": "Transfer actions that grant talents between your minions for access to card draw, recursion, and extra plays.",
-      "id": 1054,
-      "setId": 1001
-    },
-    {
-      "name": "Coven",
-      "complexity": "4/5",
-      "author": "Grey Sherpa",
-      "description": "Master your discard pile with powerful actions and recovery.",
-      "id": 1055,
-      "setId": 1001
-    },
-    {
-      "name": "Cribbage",
-      "complexity": "3/5",
-      "author": "CaptainCosmic",
-      "description": "Make carefully calculated plays and be rewarded with VP for successfully achieving goals.",
-      "id": 1056,
-      "setId": 1001
-    },
-    {
-      "name": "C.R.O.W.S.",
-      "complexity": "2/5",
-      "author": "LordMewtwo73",
-      "description": "This faction of crows rally against words using that fifth symbol as a crutch.",
-      "id": 1057,
-      "setId": 1001
-    },
-    {
-      "name": "Dark Souls",
-      "complexity": "5/5",
-      "author": "ludichrisness",
-      "description": "Hunt down four powerful Souls to upgrade your deck and link the fire.",
-      "id": 1058,
-      "setId": 1001
-    },
-    {
-      "name": "Dante's Inferno",
-      "complexity": "3/5",
-      "author": "Sasha",
-      "description": "Hinder your opponents' strategies by gifting them cards with self-harming effects and gain advantage during their downfall or when they use/discard the given cards.",
-      "id": 1059,
-      "setId": 1001
-    },
-    {
-      "name": "Diabolists",
-      "complexity": "3.5/5",
-      "author": "ludichrisness",
-      "description": "Your minions come into play shackled, limiting their full potential. Break their bindings to unleash their power.",
-      "id": 1060,
-      "setId": 1001
-    },
-    {
-      "name": "Diamond is Unbreakable",
-      "complexity": "2.5/5",
-      "author": "Berryl",
-      "description": "Play actions on anyone's minions and control the flow of the board based on who they're attached to.",
-      "id": 1061,
-      "setId": 1001
-    },
-    {
-      "name": "Djinni",
-      "complexity": "3/5",
-      "author": "Awesom360",
-      "description": "Play Wishes on minions which have powerful and versatile abilities that can also backfire... badly.",
-      "id": 1062,
-      "setId": 1001
-    },
-    {
-      "name": "Doctor Who",
-      "complexity": "4/5",
-      "author": "AndIQuote",
-      "description": "Choose one of the many incarnations of The Doctor, each with their own gameplan and cards, to combine with a set of 10 shared cards.",
-      "id": 1063,
-      "setId": 1001
-    },
-    {
-      "name": "Double Agents",
-      "complexity": "3/5",
-      "author": "Onassi, Nietzschean",
-      "description": "Shuffle your cards into other players' decks to thin yours and dilute their draw; reveal your cards from their hand or deck to sabotage them.",
-      "id": 1064,
-      "setId": 1001
-    },
-    {
-      "name": "Dream Warriors",
-      "complexity": "3/5",
-      "author": "Berryl",
-      "description": "Play lots of small minions which can recur themselves and grow stronger the more of them you play.",
-      "id": 1065,
-      "setId": 1001
-    },
-    {
-      "name": "Druids",
-      "complexity": "4/5",
-      "author": "Berryl",
-      "description": "Harness the power of the sun and earth in Energy and burying, controlling your territory and surprising your foes.",
-      "id": 1066,
-      "setId": 1001
-    },
-    {
-      "name": "Duelists",
-      "complexity": "1.5/5",
-      "author": "ludichrisness",
-      "description": "Activate your minions' abilities with repeated Swordplay actions and +1 power counters.",
-      "id": 1067,
-      "setId": 1001
-    },
-    {
-      "name": "Dystopian Regime",
-      "complexity": "2.5/5",
-      "author": "Lonan",
-      "description": "Conquer bases through swarm change of control and removing +1 power counters for abilities.",
-      "id": 1068,
-      "setId": 1001
-    },
-    {
-      "name": "Eggs",
-      "complexity": "3.5/5",
-      "author": "GreySherpa",
-      "description": "Use self destruction to convert your minion power into heaps of +1 power counters. Sacrifice it all to summon the devastating Omelette.",
-      "id": 1069,
-      "setId": 1001
-    },
-    {
-      "name": "Electric Elementals",
-      "complexity": "2/5",
-      "author": "nanpaCrown",
-      "description": "Electric Elementals lay down cards to charge and explode on a subsequent turn.",
-      "id": 1070,
-      "setId": 1001
-    },
-    {
-      "name": "Empire, The",
-      "complexity": "2.5/5",
-      "author": "LordMewtwo73",
-      "description": "Utilize your two Death Stars to spread your forces across the board for global domination, then quickly collapse your power onto unsuspecting bases.",
-      "id": 1071,
-      "setId": 1001
-    },
-    {
-      "name": "Emu Army",
-      "complexity": "2.5/5",
-      "author": "Sibeskia Faithful",
-      "description": "Dodge destruction, spread out, and attack players with more power.",
-      "id": 1072,
-      "setId": 1001
-    },
-    {
-      "name": "Encanto",
-      "complexity": "4/5",
-      "author": "Geek13579",
-      "description": "Cancel the abilities on any player's cards and look through opponents' cards to make informed decisions about upcoming plays.",
-      "id": 1073,
-      "setId": 1001
-    },
-    {
-      "name": "Enchanters",
-      "complexity": "3/5",
-      "author": "Berryl",
-      "description": "Bring opponents' minions under your spell and weaken their minds with Marks.",
-      "id": 1074,
-      "setId": 1001
-    },
-    {
-      "name": "Energy Beings",
-      "complexity": "1.5/5",
-      "author": "Lonan",
-      "description": "Increase power to burst bases and gain momentum from power increases.",
-      "id": 1075,
-      "setId": 1001
-    },
-    {
-      "name": "Engineers",
-      "complexity": "1.5/5",
-      "author": "Berryl",
-      "description": "Increase numbers on your cards, making them more effective.",
-      "id": 1076,
-      "setId": 1001
-    },
-    {
-      "name": "Family Recipes",
-      "complexity": "3.5/5",
-      "author": "SirErrant",
-      "description": "Dinner's ready! Pair up with family dishes from across the world, using Stasis to cook up homemade recipes and swarm your enemies' taste buds—with love.",
-      "id": 1077,
-      "setId": 1001
-    },
-    {
-      "name": "Fantasy Heroes",
-      "complexity": "1.5/5",
-      "author": "phantomic109",
-      "description": "Get added power boosts when your minions increase in power in this Hello World! faction.",
-      "id": 1078,
-      "setId": 1001
-    },
-    {
-      "name": "Farm Fighters",
-      "complexity": "2.5/5",
-      "author": "CaptainCosmic",
-      "description": "Play and transfer actions between your minions. Gain momentum the more you move.",
-      "id": 1079,
-      "setId": 1001
-    },
-    {
-      "name": "Fast Food",
-      "complexity": "3/5",
-      "author": "Sonus",
-      "description": "Cares about different printed powers on your own minions.  Utilizes play on minion actions as well as a the 'condiment' keyword.  Extra minion plays and draw.",
-      "id": 1080,
-      "setId": 1001
-    },
-    {
-      "name": "Fellowship of the Kiwi",
-      "complexity": "3.5/5",
-      "author": "Sibeskia Faithful",
-      "description": "Use your cute minions, sad eyes, and incredible ability to survive, to sweep in and save your Smash Up from the dark forces.",
-      "id": 1081,
-      "setId": 1001
-    },
-    {
-      "name": "FernGully",
-      "complexity": "5/5",
-      "author": "ludichrisness",
-      "description": "Build an elaborate ecosystem of cards which use power counters to defend their bases against incursions.",
-      "id": 1082,
-      "setId": 1001
-    },
-    {
-      "name": "Film Noir",
-      "complexity": "4/5",
-      "author": "SirErrant",
-      "description": "Flirt with danger by destroying your own minions, triggering powerful abilities like extra plays and movement.",
-      "id": 1083,
-      "setId": 1001
-    },
-    {
-      "name": "Final Fantasy V",
-      "complexity": "3.5/5",
-      "author": "AndIQuote",
-      "description": "Equip your minions with actions that grant versatile abilities and become even stronger when paired with one of the Warriors of Light (or Gilgamesh).",
-      "id": 1084,
-      "setId": 1001
-    },
-    {
-      "name": "Final Fantasy IX",
-      "complexity": "3/5",
-      "author": "WisdomEnvy",
-      "description": "Share resources amongst your minions to power up unique talents.",
-      "id": 1085,
-      "setId": 1001
-    },
-    {
-      "name": "Final Fantasy Tactics: Jobs",
-      "complexity": "4/5",
-      "author": "Sonus",
-      "description": "They have 12 unique minions with various synergies to discover among them. Find the right Job for the task.",
-      "id": 1086,
-      "setId": 1001
-    },
-    {
-      "name": "Fine Dining",
-      "complexity": "3/5",
-      "author": "Berryl",
-      "description": "Access your rare cards and incentivize other players to play where you want them to, gaining advantages when you maintain the lead.",
-      "id": 1087,
-      "setId": 1001
-    },
-    {
-      "name": "Fishermen",
-      "complexity": "4/5",
-      "author": "eisbread",
-      "description": "Lure opponents onto bases with tempting rewards, then reel them in at the last minute and ensnare them.",
-      "id": 1088,
-      "setId": 1001
-    },
-    {
-      "name": "Five Nights at Freddy's",
-      "complexity": "2/5",
-      "author": "Just Lazer DGE",
-      "description": "Build up Fright counters",
-      "id": 1089,
-      "setId": 1001
-    },
-    {
-      "name": "Footballers",
-      "complexity": "2.5/5",
-      "author": "phantomic109, 10037",
-      "description": "Move your Titan from base to base to increase your chance of being able to activate its Talent.",
-      "id": 1090,
-      "setId": 1001
-    },
-    {
-      "name": "Fortune Tellers",
-      "complexity": "4/5",
-      "author": "LordMewtwo73",
-      "description": "Do you dare seek knowledge your future, even if the price is your sanity? Delay your Madness into the future with stasis counters until the time is right, then leverage it for extra plays, power counters, and card draw.",
-      "id": 1091,
-      "setId": 1001
-    },
-    {
-      "name": "Fours Users",
-      "complexity": "3.5/5",
-      "author": "Lonan",
-      "description": "Choose your own destiny as you unlock powers through following the light or dark side.",
-      "id": 1092,
-      "setId": 1001
-    },
-    {
-      "name": "Gacha Gamers",
-      "complexity": "4/5",
-      "author": "Lime17",
-      "description": "Play with an extra deck containing powerful cards and weaker cards, using your main deck to gamble on which ones you get and tip the odds in your favor.",
-      "id": 1093,
-      "setId": 1001
-    },
-    {
-      "name": "Geomancers",
-      "complexity": "4.5/5",
-      "author": "AndIQuote",
-      "description": "Bury opponents' minions and reap benefits when they are uncovered.",
-      "id": 1094,
-      "setId": 1001
-    },
-    {
-      "name": "Gladiators",
-      "complexity": "3/5",
-      "author": "Geek13579",
-      "description": "Duel honorably and capture opposing minions upon their defeat to bolster your ranks.",
-      "id": 1095,
-      "setId": 1001
-    },
-    {
-      "name": "Goblin Mercenaries",
-      "complexity": "3/5",
-      "author": "Lonan",
-      "description": "Trade cards with other players and use manipulative Goblin tactics to gain advantages with your transactions.",
-      "id": 1096,
-      "setId": 1001
-    },
-    {
-      "name": "The Godfather",
-      "complexity": "3/5",
-      "author": "CaptainCosmic",
-      "description": "Call upon your associates and hold your opponents' cards hostage.",
-      "id": 1097,
-      "setId": 1001
-    },
-    {
-      "name": "Godseekers",
-      "complexity": "3/5",
-      "author": "Berryl",
-      "description": "Steal other players' minions using a network of stored cards.",
-      "id": 1098,
-      "setId": 1001
-    },
-    {
-      "name": "Golden Sun",
-      "complexity": "4/5",
-      "author": "LordMewtwo73",
-      "description": "Play your Djinn for useful abilities, then combine them in your discard pile to unleash powerful Summon actions from your extra deck.",
-      "id": 1099,
-      "setId": 1001
-    },
-    {
-      "name": "Golfers",
-      "complexity": "4.5/5",
-      "author": "CaptainCosmic",
-      "description": "Prepare a big chain of terminal plays.",
-      "id": 1100,
-      "setId": 1001
-    },
-    {
-      "name": "Gorgons",
-      "complexity": "4/5",
-      "author": "ludichrisness",
-      "description": "Fill bases with buried cards, then shatter them to release the power trapped inside.",
-      "id": 1101,
-      "setId": 1001
-    },
-    {
-      "name": "Graboids",
-      "complexity": "4/5",
-      "author": "Lonan",
-      "description": "Keep your opponents on edge with cards that attack from being buried, move buried cards and gain benefits from buried cards.",
-      "id": 1102,
-      "setId": 1001
-    },
-    {
-      "name": "Grampires",
-      "complexity": "2.5/5",
-      "author": "Lonan",
-      "description": "Go in and out of stasis, powering up and attacking bases; repeat on-play abilities through placing played cards back in stasis.",
-      "id": 1103,
-      "setId": 1001
-    },
-    {
-      "name": "Gravity Falls",
-      "complexity": "4.5/5",
-      "author": "AndIQuote",
-      "description": "Draw and share Madness cards with other players while trying to end the game with just enough Madness in your discard pile.",
-      "id": 1104,
-      "setId": 1001
-    },
-    {
-      "name": "Grillers",
-      "complexity": "3.5/5",
-      "author": "Berryl",
-      "description": "Time your bursts to match when your cards have built up enough equity.",
-      "id": 1105,
-      "setId": 1001
-    },
-    {
-      "name": "The Grimm Troupe",
-      "complexity": "3/5",
-      "author": "Berryl",
-      "description": "Stall the game to complete a multi-step Ritual.",
-      "id": 1106,
-      "setId": 1001
-    },
-    {
-      "name": "Hackers",
-      "complexity": "3/5",
-      "author": "Berryl",
-      "description": "Siphon opponents’ power and use it for your own purposes to cascade as many bases as possible into breaking at once with this Hello World! faction.",
-      "id": 1107,
-      "setId": 1001
-    },
-    {
-      "name": "Hades",
-      "complexity": "3/5",
-      "author": "AndIQuote",
-      "description": "Play twelve powerful modifiers and empower Hades' lone minion.",
-      "id": 1108,
-      "setId": 1001
-    },
-    {
-      "name": "Hibernators",
-      "complexity": "2.5/5",
-      "author": "eisbread",
-      "description": "Accumulate cards in your hand for winter, gain benefits for maintaining a large hand size, and play extra minions come spring.",
-      "id": 1109,
-      "setId": 1001
-    },
-    {
-      "name": "Highlanders",
-      "complexity": "3/5",
-      "author": "Lonan",
-      "description": "Store card under cards and activate abilities. Preserve singularly powerful minions.",
-      "id": 1110,
-      "setId": 1001
-    },
-    {
-      "name": "Ice Golems",
-      "complexity": "3.5/5",
-      "author": "CaptainCosmic",
-      "description": "Freeze the board and snowball to victory.",
-      "id": 1111,
-      "setId": 1001
-    },
-    {
-      "name": "Iconoclasts",
-      "complexity": "3.5/5",
-      "author": "Onassi, ludichrisness",
-      "description": "Bring new Colossus mini-bases into play and score them to win rewards while the rest of the world crumbles.",
-      "id": 1112,
-      "setId": 1001
-    },
-    {
-      "name": "Iditarod",
-      "complexity": "3/5",
-      "author": "Sibeskia Faithful",
-      "description": "Set up checkpoints, move your minions around to build up Energy, and lead your sled team to victory.",
-      "id": 1113,
-      "setId": 1001
-    },
-    {
-      "name": "Illusionists",
-      "complexity": "2/5",
-      "author": "Berryl",
-      "description": "Lead with low power footprints and always keep your best cards available.",
-      "id": 1114,
-      "setId": 1001
-    },
-    {
-      "name": "Inception",
-      "complexity": "5/5",
-      "author": "ludichrisness",
-      "description": "Get inside your rival's head and play powerful but situational cards with great timing while you plan an elaborate operation to dive into a recursive turn.",
-      "id": 1115,
-      "setId": 1001
-    },
-    {
-      "name": "Jack O'Lanterns",
-      "complexity": "2.5/5",
-      "author": "Onassi",
-      "description": "Play with a day/night cycle, where your cards are more passive and defensive during the day and more aggressive at night.",
-      "id": 1116,
-      "setId": 1001
-    },
-    {
-      "name": "Japanese Poets",
-      "complexity": "2/5",
-      "author": "LordMewtwo73",
-      "description": "One and one factions,\nSprout a deck as buds in spring.\nPaul Peterson's dream.",
-      "id": 1117,
-      "setId": 1001
-    },
-    {
-      "name": "Jazz Singers",
-      "complexity": "2/5",
-      "author": "SirErrant",
-      "description": "Improvise on the spot with these Special singers by playing versatile standard actions and manipulating ORs to jazz up your plays.",
-      "id": 1118,
-      "setId": 1001
-    },
-    {
-      "name": "Jedi Order",
-      "complexity": "3/5",
-      "author": "LordMewtwo73",
-      "description": "Use your Lightsabers to stock up on future counters and plan your victory turns in advance.",
-      "id": 1119,
-      "setId": 1001
-    },
-    {
-      "name": "Jellyfish",
-      "complexity": "4/5",
-      "author": "Onassi",
-      "description": "Spread out on multiple bases and build Marks on your minions to apply negative effects to others.",
-      "id": 1120,
-      "setId": 1001
-    },
-    {
-      "name": "Jocks",
-      "complexity": "2.5/5",
-      "author": "Lonan",
-      "description": "Swarm Bench Warmers, stomp out troublesome bases, and assert dominance on your turn.",
-      "id": 1121,
-      "setId": 1001
-    },
-    {
-      "name": "Jungle Islander Cavalry",
-      "complexity": "2.5/5",
-      "author": "Lonan",
-      "description": "Enjoy a feel reminiscent-yet-distinct style from a combination of Bear Cavalry, Polynesian Voyagers, and Killer Plants in these mini-factions.",
-      "id": 1122,
-      "setId": 1001
-    },
-    {
-      "name": "Jurassic Park",
-      "complexity": "4/5",
-      "author": "AndIQuote",
-      "description": "Race for survival against the terrifying T-Rex, using all manner of tricks and traps to take advantage of movement and titans.",
-      "id": 1123,
-      "setId": 1001
-    },
-    {
-      "name": "Kamar-Taj",
-      "complexity": "3/5",
-      "author": "Berryl",
-      "description": "Play minions from stasis to bounce them in and out of the Mirror Dimension.",
-      "id": 1124,
-      "setId": 1001
-    },
-    {
-      "name": "Kart Racers",
-      "complexity": "2.5/5",
-      "author": "GammaMania",
-      "description": "Race your minions around the bases in a linear direction, and gain power and other benefits for moving minions.",
-      "id": 1125,
-      "setId": 1001
-    },
-    {
-      "name": "King Kong",
-      "complexity": "2.5/5",
-      "author": "Lonan",
-      "description": "Use play on base actions to crush bases.  Gain benefits from destruction and return to hand.",
-      "id": 1126,
-      "setId": 1001
-    },
-    {
-      "name": "Kobolds",
-      "complexity": "2/5",
-      "author": "GammaMania",
-      "description": "Play extra low-power minions on bases where you control high-power minions.",
-      "id": 1127,
-      "setId": 1001
-    },
-    {
-      "name": "The Legend of Zelda (bae_gel)",
-      "complexity": "3/5",
+      "name": "Animal Crossing",
+      "setId": 1001,
       "author": "bae_gel",
-      "description": "Unlock the power of OR abilities by giving them new effects!",
-      "id": 1128,
-      "setId": 1001
-    },
-    {
-      "name": "The Legend of Zelda (phantomic109)",
-      "complexity": "3.5/5",
-      "author": "phantomic109",
-      "description": "Adjust your minions' power using +1 and -1 power counters to trigger conditional abilities.",
-      "id": 1129,
-      "setId": 1001
-    },
-    {
-      "name": "LEGO",
       "complexity": "2/5",
-      "author": "Bandit",
-      "description": "Piece common cards together to create big plays.",
-      "id": 1130,
-      "setId": 1001
+      "description": "Play base modifiers that react to playing a character there and go back to your deck once they're out of uses."
     },
     {
-      "name": "Liches",
-      "complexity": "2/5",
-      "author": "Berryl",
-      "description": "Use discarded minions as fuel for a horde of the undead.",
-      "id": 1131,
-      "setId": 1001
-    },
-    {
-      "name": "Living Dead",
-      "complexity": "4/5",
-      "author": "Lonan",
-      "description": "Bury multiple minions from the discard pile. Infect other players' minions that you bury and then eventually uncover under your control.",
-      "id": 1132,
-      "setId": 1001
-    },
-    {
-      "name": "Lobotomy Corporation",
-      "complexity": "Yes/5",
-      "author": "Just Lazer DGE",
-      "description": "Manage abnormalities.",
-      "id": 1133,
-      "setId": 1001
-    },
-    {
-      "name": "Loopers",
-      "complexity": "5/5",
-      "author": "Onassi",
-      "description": "Repeatedly play minions and activate their abilities, or find the right combination of cards for an infinite VP combo.",
-      "id": 1134,
-      "setId": 1001
-    },
-    {
-      "name": "Lumas",
-      "complexity": "3/5",
-      "author": "Berryl",
-      "description": "Grow threatening in-play specials the longer they remain in play, coupled with a powerful movement package.",
-      "id": 1135,
-      "setId": 1001
-    },
-    {
-      "name": "Lunatics",
-      "complexity": "4/5",
-      "author": "Onassi",
-      "description": "Bring your killer titan in and out of play, raising its power by destroying minions.",
-      "id": 1136,
-      "setId": 1001
-    },
-    {
-      "name": "MacGyver",
-      "complexity": "3/5",
-      "author": "Lonan",
-      "description": "Assemble objects (minions) together to unlock benefits and abilities.",
-      "id": 1137,
-      "setId": 1001
-    },
-    {
-      "name": "Mad Chemists",
-      "complexity": "4/5",
-      "author": "CaptainCosmic",
-      "description": "Build your own deck and mix your cards to obtain a variety of effects.",
-      "id": 1138,
-      "setId": 1001
-    },
-    {
-      "name": "Mafia",
-      "complexity": "3/5",
-      "author": "Lonan",
-      "description": "Pay off opponents for benefits, charge players for using your turf, and place hits on troublesome minions to silence them.",
-      "id": 1139,
-      "setId": 1001
-    },
-    {
-      "name": "Mantis Tribe",
-      "complexity": "4/5",
-      "author": "Berryl",
-      "description": "Win bases on opponents' turns.",
-      "id": 1140,
-      "setId": 1001
-    },
-    {
-      "name": "Mariachi",
-      "complexity": "3.5/5",
-      "author": "CaptainCosmic",
-      "description": "Build a musical engine by playing cards with abilities that all players can use.",
-      "id": 1141,
-      "setId": 1001
-    },
-    {
-      "name": "Mega Man",
-      "complexity": "3.5/5",
-      "author": "nanpaCrown",
-      "description": "Mix the granted abilities of actions to create a super fighting robot.",
-      "id": 1142,
-      "setId": 1001
-    },
-    {
-      "name": "Metroid",
-      "complexity": "4/5",
+      "id": 1014,
+      "name": "Archaeologists",
+      "setId": 1001,
       "author": "ludichrisness",
-      "description": "Blast through your deck with upgraded Beam attacks, discovering secrets hidden within.",
-      "id": 1143,
-      "setId": 1001
-    },
-    {
-      "name": "Middle Earth: Mordor",
-      "complexity": "4/5",
-      "author": "Sibeskia Faithful",
-      "description": "One ring to rule them all, one ring to find them, one ring to bring them all, and in the darkness bind them in the Land of Mordor where shadows lie.",
-      "id": 1144,
-      "setId": 1001
-    },
-    {
-      "name": "Mind Flayers",
-      "complexity": "3.5/5",
-      "author": "LordMewtwo73",
-      "description": "Win duels to take control of other players' minions and infect them with Madness, or destroy their minds with Illithid Tadpoles to grow your ranks.",
-      "id": 1145,
-      "setId": 1001
-    },
-    {
-      "name": "Minstrels",
       "complexity": "2.5/5",
-      "author": "GammaMania",
-      "description": "Play Song actions on your minions, which affect everyone at their base, and use those songs to take control of other players' minions.",
-      "id": 1146,
-      "setId": 1001
+      "description": "Grow your civilization's legacy, then unearth it in the future."
     },
     {
-      "name": "Misfits",
-      "complexity": "2/5",
-      "author": "Multiple authors",
-      "description": "An All Stars-style collection of cards that were deemed “misfits” in their original faction but gain new life in another context.",
-      "id": 1147,
-      "setId": 1001
+      "id": 1015,
+      "name": "Astronomers",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "5/5",
+      "description": "Order your deck to repeatedly reveal specific cards."
     },
     {
-      "name": "Monopoly",
-      "complexity": "3/5",
-      "author": "Ludum",
-      "description": "It's money time! Build houses and hotels, charge +1 power counters rent to other players, and use all your wealth to boost your minions.",
-      "id": 1148,
-      "setId": 1001
-    },
-    {
-      "name": "Moonlighters",
-      "complexity": "2/5",
+      "id": 1016,
+      "name": "Avatar the Last Wind Worker",
+      "setId": 1001,
       "author": "Lonan",
-      "description": "Search for powerful minions, switch them out, and choose one of two unique abilities for the minion's job.",
-      "id": 1149,
-      "setId": 1001
-    },
-    {
-      "name": "Monster Hunters",
       "complexity": "2/5",
+      "description": "Bend the Elements to your advantage, sneak attack unsuspecting bases, and gain benefits from self-destruction."
+    },
+    {
+      "id": 1017,
+      "name": "Babies",
+      "setId": 1001,
+      "author": "Bandit",
+      "complexity": "2/5",
+      "description": "Grow stronger over time and utilize start of turn effects."
+    },
+    {
+      "id": 1018,
+      "name": "Bad Boys",
+      "setId": 1001,
+      "author": "Colinus Haggardus",
+      "complexity": "3/5",
+      "description": "Radically bend the rules to hinder your opponents and boost yourself."
+    },
+    {
+      "id": 1019,
+      "name": "Barbarians",
+      "setId": 1001,
       "author": "Lonan",
-      "description": "Lay enticing traps for other player's minions and cash out when you destroy them.",
-      "id": 1150,
-      "setId": 1001
+      "complexity": "2/5",
+      "description": "Swarm bases and gain benefits through destruction."
     },
     {
-      "name": "Mortal Kombat",
-      "complexity": "3/5",
-      "author": "Lonan",
-      "description": "Perform fatalities in the form of your minions' special abilities to overtake opponents as a base scores.",
-      "id": 1151,
-      "setId": 1001
-    },
-    {
-      "name": "Mountain Dwarves",
-      "complexity": "3/5",
-      "author": "Sonus",
-      "description": "Dwarves may move slowly, but they are strong. Use abilities that buff you on your next turn.",
-      "id": 1152,
-      "setId": 1001
-    },
-    {
-      "name": "Mountaineers",
-      "complexity": "3/5",
+      "id": 1020,
+      "name": "Bards",
+      "setId": 1001,
       "author": "ludichrisness, normieleon",
-      "description": "Start your climb with small minions, then jump off them for big plays to try to break bases. Quickly recover from failures to try again.",
-      "id": 1153,
-      "setId": 1001
+      "complexity": "2/5",
+      "description": "Unlock your partner's true potential with the power of motivational song and an eclectic mix of actions."
     },
     {
-      "name": "Musical Theatre",
-      "complexity": "3/5",
-      "author": "SirErrant",
-      "description": "Join this ensemble cast as they use Energy to put on Special performances before/after a base scores.",
-      "id": 1154,
-      "setId": 1001
-    },
-    {
-      "name": "Naga",
-      "complexity": "3.5/5",
-      "author": "Lonan",
-      "description": "Bury minions defensively and swarm chain uncover minions to break bases.",
-      "id": 1155,
-      "setId": 1001
-    },
-    {
-      "name": "Nanobugs",
+      "id": 1021,
+      "name": "Baristas",
+      "setId": 1001,
+      "author": "inushiba",
       "complexity": "2.5/5",
+      "description": "Gain access to cards at any time by milling them into your discard pile, then brewing them later with the proper ingredients."
+    },
+    {
+      "id": 1022,
+      "name": "Batman",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3/5",
+      "description": "Gain benefits by capturing opposing minions and returning them to the hand."
+    },
+    {
+      "id": 1023,
+      "name": "Blacksmiths",
+      "setId": 1001,
       "author": "Berryl",
-      "description": "Build an unstoppable army of robotic insects to swarm bases and get rid of other players’ cards.",
-      "id": 1156,
-      "setId": 1001
-    },
-    {
-      "name": "Naruto",
       "complexity": "3/5",
-      "author": "Lonan",
-      "description": "Use your extra deck for more utility when you play main characters and swarm the base with shadow clones.",
-      "id": 1157,
-      "setId": 1001
+      "description": "Burn through your deck quickly and scale to the size of your discard pile."
     },
     {
-      "name": "Narwhals",
-      "complexity": "2.5/5",
-      "author": "Onassi, Berryl",
-      "description": "Play no standard actions when setting up, then chain all of them together at once.",
-      "id": 1158,
-      "setId": 1001
-    },
-    {
-      "name": "Necrodancers",
-      "complexity": "3.5/5",
-      "author": "ludichrisness",
-      "description": "Zombify your minions into Undead monsters, then harness the power of the Undead to swing bases.",
-      "id": 1159,
-      "setId": 1001
-    },
-    {
-      "name": "Necrons",
-      "complexity": "3/5",
-      "author": "Ludum",
-      "description": "Put your minions in stasis for benefits, swarm bases and plan power bursts to break them.",
-      "id": 1160,
-      "setId": 1001
-    },
-    {
-      "name": "Night Elves",
-      "complexity": "2.5/5",
-      "author": "Lonan",
-      "description": "Sneak on to bases at the last minute with Night Elf Trickery and grow power with your nurture of natural forces.",
-      "id": 1161,
-      "setId": 1001
-    },
-    {
-      "name": "Nobles",
-      "complexity": "2/5",
-      "author": "SirErrant",
-      "description": "Crush the Filthy Peasants under your heel while exploiting the power you gain from being outnumbered on a base.",
-      "id": 1162,
-      "setId": 1001
-    },
-    {
-      "name": "Noble Dogs",
-      "complexity": "2/5",
-      "author": "Colinus Haggardus",
-      "description": "Alter the lines of authority with these commanding canines and take control of other players' minions to march your way to victory.",
-      "id": 1163,
-      "setId": 1001
-    },
-    {
-      "name": "Occult Investigators",
-      "complexity": "3/5",
-      "author": "ludichrisness",
-      "description": "Flirt with Madness with this Hello World! faction as you quickly draw through your deck, stashing cards inside the Madness deck to be played at the perfect moment.",
-      "id": 1164,
-      "setId": 1001
-    },
-    {
-      "name": "Olympians",
-      "complexity": "3/5",
-      "author": "Onassi",
-      "description": "Push your minions to their limit by increasing both their power and other players' minions, as well as increase the breakpoint, and then compete.",
-      "id": 1165,
-      "setId": 1001
-    },
-    {
-      "name": "Oozes",
-      "complexity": "2/5",
-      "author": "ludichrisness",
-      "description": "Trap your rivals in ooze as you slowly but inexorably dissolve their cards.",
-      "id": 1166,
-      "setId": 1001
-    },
-    {
-      "name": "Oracles",
-      "complexity": "2/5",
-      "author": "Berryl",
-      "description": "Grow stronger the more information you reveal to opponents, and unlock your cards' potential by presenting them.",
-      "id": 1167,
-      "setId": 1001
-    },
-    {
-      "name": "Orcish Horde",
-      "complexity": "1.5/5",
-      "author": "Lonan",
-      "description": "Stomp through bases brutishly with the orcish horde by destroying, protecting, and sneaking as you see fit.",
-      "id": 1168,
-      "setId": 1001
-    },
-    {
-      "name": "Ori",
-      "complexity": "3/5",
-      "author": "Bandit",
-      "description": "Substitute action plays for useful effects while you prepare powerful extended Skill chains.",
-      "id": 1169,
-      "setId": 1001
-    },
-    {
-      "name": "Outer Ones",
-      "complexity": "4/5",
-      "author": "LordMewtwo73",
-      "description": "Draw benefits from from Madness cards, share them with other players, and accumulate them to summon the incomprehensible Azathoth.",
-      "id": 1170,
-      "setId": 1001
-    },
-    {
-      "name": "Over The Garden Wall",
-      "complexity": "3/5",
-      "author": "AndIQuote",
-      "description": "Force all players to draw Madness cards to trigger powerful abilities and manipulate your Madness from the discard pile.",
-      "id": 1171,
-      "setId": 1001
-    },
-    {
-      "name": "Painters",
-      "complexity": "3.5/5",
-      "author": "ludichrisness",
-      "description": "Play with a unique cast of six artists who use Energy to copy the attributes of other cards.",
-      "id": 1172,
-      "setId": 1001
-    },
-    {
-      "name": "Paladins (Onassi)",
-      "complexity": "3/5",
-      "author": "Onassi",
-      "description": "Enforce righteousness by drafting two of five subdecks to fill out the rest of your deck.",
-      "id": 1173,
-      "setId": 1001
-    },
-    {
-      "name": "Paladins (Sonus)",
-      "complexity": "1/5",
+      "id": 1024,
+      "name": "Blood Realm",
+      "setId": 1001,
       "author": "Sonus",
-      "description": "Play helpful actions on your minions that offer protection, power, and generate +1 power counters.",
-      "id": 1174,
-      "setId": 1001
-    },
-    {
-      "name": "Pale Court",
-      "complexity": "3.5/5",
-      "author": "Berryl",
-      "description": "Keep players off your chosen bases for solo scores.",
-      "id": 1175,
-      "setId": 1001
-    },
-    {
-      "name": "Pandas",
-      "complexity": "1.5/5",
-      "author": "Berryl",
-      "description": "Passively grow over time, block opponents' avenues of play, and gain advantages for having large minions.",
-      "id": 1176,
-      "setId": 1001
-    },
-    {
-      "name": "Pastry Chefs",
-      "complexity": "4.5/5",
-      "author": "ludichrisness",
-      "description": "Draw actions from your deck and prepare future abilities while you bake devastating yet delicious Cakes over multiple turns.",
-      "id": 1177,
-      "setId": 1001
-    },
-    {
-      "name": "Petrichor V",
       "complexity": "3/5",
-      "author": "LordMewtwo73",
-      "description": "Aliens have crash landed on your planet, threatening the creatures that call this place home. Choose from five mini-factions at the start of the game to create the perfect deck, then remove them from your sanctuary with the ancient Artifact abilities.",
-      "id": 1178,
-      "setId": 1001
+      "description": "Exsanguinate +1 power counters from your own cards to accomplish powerful, blood-fueled effects."
     },
     {
-      "name": "Phantom Thieves",
-      "complexity": "3/5",
-      "author": "SirErrant",
-      "description": "Steal the hearts of corrupt individuals with these 10 ordinary high schoolers, each of whom swap into their linked Personas to become masked heroes of justice.",
-      "id": 1179,
-      "setId": 1001
-    },
-    {
-      "name": "Phoenixes",
-      "complexity": "2.5/5",
-      "author": "Berryl",
-      "description": "Put your minions through the cycle of life, perpetually destroying them and bringing them back from the ashes.",
-      "id": 1180,
-      "setId": 1001
-    },
-    {
-      "name": "Physicists",
-      "complexity": "2/5",
-      "author": "LordMewtwo73",
-      "description": "Manipulate +1 power counters to activate the abilities of these seasonally scary scientists. Trick-or-treat!",
-      "id": 1181,
-      "setId": 1001
-    },
-    {
-      "name": "Pizza Delivery",
-      "complexity": "4/5",
-      "author": "CaptainCosmic",
-      "description": "Order pizzas for later and have everything ready to smash for when they arrive.",
-      "id": 1182,
-      "setId": 1001
-    },
-    {
-      "name": "Plague Doctors",
-      "complexity": "2/5",
-      "author": "Berryl",
-      "description": "Weaken other players' minions with Corrosion, then strike when those minions are at their weakest.",
-      "id": 1183,
-      "setId": 1001
-    },
-    {
-      "name": "Plumber Sisters",
-      "complexity": "3/5",
-      "author": "Grey Sherpa",
-      "description": "Use powerful play-on-minion actions and movement to hit hard and stay on the board.",
-      "id": 1184,
-      "setId": 1001
-    },
-    {
-      "name": "Pokémon",
-      "complexity": "3/5",
-      "author": "Lime17",
-      "description": "Use ten unique minions to weaken bases, position yourself for later turns, and burst when the time is right with power gain and extra plays.",
-      "id": 1185,
-      "setId": 1001
-    },
-    {
-      "name": "Pop Stars",
-      "complexity": "2/5",
-      "author": "SirErrant",
-      "description": "Take center stage with this Hello World! faction, which uses searching to turn temporary power into new minions with powerful abilities.",
-      "id": 1186,
-      "setId": 1001
-    },
-    {
-      "name": "Popeye",
-      "complexity": "3/5",
-      "author": "CaptainCosmic",
-      "description": "Feed the board with your cards until it's time for a Spinach rush.",
-      "id": 1187,
-      "setId": 1001
-    },
-    {
-      "name": "Predators",
-      "complexity": "3/5",
+      "id": 1025,
+      "name": "Body Snatchers",
+      "setId": 1001,
       "author": "Lonan",
-      "description": "Use Marks to designate opponents worthy of destruction, capture minions, and use them for a future power boost.",
-      "id": 1188,
-      "setId": 1001
-    },
-    {
-      "name": "Preppers",
-      "complexity": "3.5/5",
-      "author": "Lonan",
-      "description": "Accumulate power and resources inside a safe Bunker and burst out to break bases.",
-      "id": 1189,
-      "setId": 1001
-    },
-    {
-      "name": "Primate Defense League",
-      "complexity": "3/5",
-      "author": "Colinus Haggardus",
-      "description": "Play and upgrade powerful minions. Send balloons to your opponents to hinder them, or pop them to gain special bonuses.",
-      "id": 1190,
-      "setId": 1001
-    },
-    {
-      "name": "Psychics",
       "complexity": "4/5",
-      "author": "Onassi",
-      "description": "Play minions with higher than average power but negative abilities, and cancel those abilities to unlock new ones.",
-      "id": 1191,
-      "setId": 1001
+      "description": "Switch hands and decks with other players and gain the advantage by buffing minions you do not own."
     },
     {
-      "name": "Pyromaniacs",
-      "complexity": "2.5/5",
+      "id": 1026,
+      "name": "Boos",
+      "setId": 1001,
       "author": "Lonan",
-      "description": "Set fire to bases and whittle away at their breakpoint or explode them.  Gain breakpoint reductions as you burn and blow things up.",
-      "id": 1192,
-      "setId": 1001
-    },
-    {
-      "name": "Quantum Physicists",
-      "complexity": "2/5",
-      "author": "Berryl",
-      "description": "Move your minions wherever you want and keep your turn flexible with OR abilities.",
-      "id": 1193,
-      "setId": 1001
-    },
-    {
-      "name": "Ranger's Apprentice: The Main Characters",
-      "complexity": "4/5",
-      "author": "Sibeskia Faithful",
-      "description": "Hide minions, draw cards, gain extra actions, and strike from the shadows. Your opponents won't know what hit them.",
-      "id": 1194,
-      "setId": 1001
-    },
-    {
-      "name": "Rangers",
       "complexity": "3/5",
-      "author": "Berryl",
-      "description": "Track your foes and take them down when it matters most.",
-      "id": 1195,
-      "setId": 1001
+      "description": "Have your minions pop in and out mysteriously through the mechanic of burying."
     },
     {
-      "name": "Rappers",
-      "complexity": "2.5/5",
-      "author": "Berryl",
-      "description": "Play actions off the top of your deck in rap-battling duels.",
-      "id": 1196,
-      "setId": 1001
-    },
-    {
-      "name": "Rebel Alliance (Berryl)",
-      "complexity": "2/5",
-      "author": "Berryl",
-      "description": "Surprise your foes by chaining lots of special abilities all at once.",
-      "id": 1197,
-      "setId": 1001
-    },
-    {
-      "name": "Rebel Alliance (LordMewtwo73)",
-      "complexity": "2.5/5",
+      "id": 1027,
+      "name": "Bounty Hunters",
+      "setId": 1001,
       "author": "LordMewtwo73",
-      "description": "Unlock the full potential of your cards' abilities when other players have more VP than you.",
-      "id": 1198,
-      "setId": 1001
+      "complexity": "2/5",
+      "description": "Place bounties on other players' minions and remove them from the board to collect your reward."
     },
     {
-      "name": "Rebels",
+      "id": 1028,
+      "name": "Boxers",
+      "setId": 1001,
+      "author": "Captain Cardboard",
       "complexity": "2.5/5",
+      "description": "Carefully time and string together a flurry of action plays to boost your power and overwhelm your opponents."
+    },
+    {
+      "id": 1029,
+      "name": "Breakfast Cereal Mascots",
+      "setId": 1001,
       "author": "AndIQuote",
-      "description": "Place +1 power counters on opposing minions and then take advantage of them once powered up.",
-      "id": 1199,
-      "setId": 1001
-    },
-    {
-      "name": "Redwallers",
-      "complexity": "3/5",
-      "author": "phantomic109, 10037",
-      "description": "Defend bases from other players' cards and score by yourself.",
-      "id": 1200,
-      "setId": 1001
-    },
-    {
-      "name": "Rival Tech",
-      "complexity": "3.5/5",
-      "author": "Normieleon",
-      "description": "Manipulate your hand size and set up your prospecting operations to guarantee access to your best cards through brutal corporate efficiency.",
-      "id": 1201,
-      "setId": 1001
-    },
-    {
-      "name": "Rogues",
-      "complexity": "3/5",
-      "author": "SirErrant",
-      "description": "Take advantage of your expertise in thievery to manipulate and gain benefits from stored cards. Watch out for their Sneak Attack!",
-      "id": 1202,
-      "setId": 1001
-    },
-    {
-      "name": "Safari",
-      "complexity": "2/5",
-      "author": "Lonan",
-      "description": "Gain benefits from movement.",
-      "id": 1203,
-      "setId": 1001
-    },
-    {
-      "name": "Saiyans",
-      "complexity": "3/5",
-      "author": "Lonan",
-      "description": "Gain power to break bases through placing and moving +1 power counters on/from actions and minions.",
-      "id": 1204,
-      "setId": 1001
-    },
-    {
-      "name": "Sasquatches",
-      "complexity": "3/5",
-      "author": "Lonan",
-      "description": "Swarm elusive minions from a shadowy forest that disappear and reappear without a trace.",
-      "id": 1205,
-      "setId": 1001
-    },
-    {
-      "name": "Scavengers",
       "complexity": "2.5/5",
-      "author": "LordMewtwo73",
-      "description": "A Hello World! faction revolving around trashing cards in your hand and boosting power during other player's turns.",
-      "id": 1206,
-      "setId": 1001
+      "description": "Stage minions and actions one turn and trigger powerful abilities at the start of your following turn."
     },
     {
-      "name": "Selkies",
-      "complexity": "2/5",
-      "author": "ludichrisness",
-      "description": "Waste rival minions on low value bases you intend to lose, while controlling the high value bases in play.",
-      "id": 1207,
-      "setId": 1001
-    },
-    {
-      "name": "Separatists",
-      "complexity": "1.5/5",
-      "author": "LordMewtwo73",
-      "description": "Overwhelm your foes with an army of easy-to-play droid minions that can also be destroyed for extra card draw.",
-      "id": 1208,
-      "setId": 1001
-    },
-    {
-      "name": "Shadows",
+      "id": 1030,
+      "name": "Brewers",
+      "setId": 1001,
+      "author": "Onassi",
       "complexity": "3/5",
-      "author": "Berryl",
-      "description": "Play from behind, then surge in power when you take the lead.",
-      "id": 1209,
-      "setId": 1001
+      "description": "Return cards in your hand, deck, and discard pile to the box for benefits and to thin your deck."
     },
     {
-      "name": "Shiranui",
-      "complexity": "4/5",
-      "author": "Lonan",
-      "description": "Use your minions that are in play or in the discard pile as cost to play minions from your extra deck as extra minions.",
-      "id": 1210,
-      "setId": 1001
-    },
-    {
-      "name": "Shonen Fighters",
-      "complexity": "4/5",
-      "author": "Blim Blonker, AndIQuote",
-      "description": "Train hard, engage in climactic duels with your opponents, and even recruit their minions to your side after defeating them.",
-      "id": 1211,
-      "setId": 1001
-    },
-    {
-      "name": "The Simpsons (Colinus)",
-      "complexity": "2/5",
+      "id": 1031,
+      "name": "Brink of the Future",
+      "setId": 1001,
       "author": "Colinus Haggardus",
-      "description": "Play minions of wacky, crazy power, grow more powerful as more Simpsons come into play, and leave your opponents saying \"D'oh!\"",
-      "id": 1212,
-      "setId": 1001
-    },
-    {
-      "name": "The Simpsons (Lonan)",
-      "complexity": "3/5",
-      "author": "Lonan",
-      "description": "Prank others with specials and use as little effort as possible to win bases.",
-      "id": 1213,
-      "setId": 1001
-    },
-    {
-      "name": "Simulators",
-      "complexity": "5/5",
-      "author": "Onassi",
-      "description": "Manipulate reality by playing Programs that alter the abilities of bases.",
-      "id": 1214,
-      "setId": 1001
-    },
-    {
-      "name": "Sketchy Housing",
       "complexity": "3.5/5",
-      "author": "Onassi",
-      "description": "Add and remove counters to and from cards, especially Energy, and house some of your minions as base modifiers.",
-      "id": 1215,
-      "setId": 1001
+      "description": "Harness the power of time itself to thwart your enemies' plans and seal every chance you have for victory."
     },
     {
-      "name": "Slashers",
-      "complexity": "3/5",
-      "author": "Chuckyscookie",
-      "description": "Destroy your own minions for benefits and whittle the survivors down to The Final Girl.",
-      "id": 1216,
-      "setId": 1001
-    },
-    {
-      "name": "Slimes",
-      "complexity": "3/5",
-      "author": "CaptainCosmic",
-      "description": "Slowly gain potential energy by splitting and merging your minions.",
-      "id": 1217,
-      "setId": 1001
-    },
-    {
-      "name": "Smash (Up) Mouth",
-      "complexity": "?/5",
-      "author": "LordMewtwo73",
-      "description": "Hey now, here's some All Stars! Like the official Smash Up All Stars and World Champs, this faction showcases fan favorites from Smash Up history.",
-      "id": 1218,
-      "setId": 1001
-    },
-    {
-      "name": "Snackmancers",
-      "complexity": "4.5/5",
-      "author": "Onassi",
-      "description": "Lure an opponent with Snacks and make them choose between fattening up their minions or allowing you to reap the rewards instead.",
-      "id": 1219,
-      "setId": 1001
-    },
-    {
-      "name": "Snipers",
-      "complexity": "3/5",
+      "id": 1032,
+      "name": "Bureaucrats",
+      "setId": 1001,
       "author": "Lonan",
-      "description": "Place counters on other bases and snipe them or other players' minoins from afar.",
-      "id": 1220,
-      "setId": 1001
+      "complexity": "3/5",
+      "description": "Control your opponent by creating stipulations that you benefit from."
     },
     {
-      "name": "Soda",
-      "complexity": "3.5/5",
-      "author": "Berryl",
-      "description": "Surge in potential when bases are fresh on the board.",
-      "id": 1221,
-      "setId": 1001
+      "id": 1033,
+      "name": "Butlers",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3/5",
+      "description": "Serve your partner faction by giving it anything that it might need. Reap benefits from storing cards."
     },
     {
-      "name": "Soul Sanctum",
-      "complexity": "4/5",
-      "author": "Berryl",
-      "description": "Wield powerful engines that can fail catastrophically if not maintained.",
-      "id": 1222,
-      "setId": 1001
+      "id": 1034,
+      "name": "Calaveras (formerly Skeletons)",
+      "setId": 1001,
+      "author": "Awesom360",
+      "complexity": "2.5/5",
+      "description": "Get extra draw and plays via cards that activate exclusively from the discard pile before returning to your deck."
     },
     {
-      "name": "Soul Train",
-      "complexity": "4/5",
-      "author": "CaptainCosmic",
-      "description": "Imbue your minions with the soul of the cards you discard. Play your lower-powered minions from outside your hand.",
-      "id": 1223,
-      "setId": 1001
-    },
-    {
-      "name": "Soup",
-      "complexity": "4/5",
+      "id": 1035,
+      "name": "Caper Crew",
+      "setId": 1001,
       "author": "AndIQuote",
-      "description": "Toss ingredients from your hand, deck, and discard pile into a bubbling pot of soup to produce delicious results with stored cards.",
-      "id": 1224,
-      "setId": 1001
-    },
-    {
-      "name": "Spacegirl Squad",
-      "complexity": "1.5/5",
-      "author": "CaptainCosmic",
-      "description": "Power up your minions and gain benefits from it. Setup and execute a big burst play.",
-      "id": 1225,
-      "setId": 1001
-    },
-    {
-      "name": "Space Commandos",
-      "complexity": "1/5",
-      "author": "Onassi",
-      "description": "Reduce the breakpoint of a base from afar, and score by closing in on it.",
-      "id": 1226,
-      "setId": 1001
-    },
-    {
-      "name": "Space Realm",
       "complexity": "4/5",
+      "description": "Steal other players' cards and use them as resources to carry out a variety of plans with a team of six 5-power minions."
+    },
+    {
+      "id": 1036,
+      "name": "Card Slingers",
+      "setId": 1001,
       "author": "Sonus",
-      "description": "Play on the most recently played base for extra benefits. Lower breakpoints and play extra bases.",
-      "id": 1227,
-      "setId": 1001
+      "complexity": "3.5/5",
+      "description": "Revealing cards from your hand and top of deck for benefits (draw/extra plays, etc). Compare your hands/cards with opponents for benefits."
     },
     {
-      "name": "Sphinxes",
-      "complexity": "2.5/5",
-      "author": "LordMewtwo73",
-      "description": "Become a master of riddles by forcing your opponents to make hard choices and corner them into no-win situations. Llet your opponent be the cause of their own unmaking.",
-      "id": 1228,
-      "setId": 1001
-    },
-    {
-      "name": "Spicy Entrées",
-      "complexity": "3/5",
+      "id": 1037,
+      "name": "Catastrophes",
+      "setId": 1001,
       "author": "Lonan",
-      "description": "Place and manipulate negative power counters (-1 power counters).  Gain benefits from negative power counters.",
-      "id": 1229,
-      "setId": 1001
+      "complexity": "2.5/5",
+      "description": "Replace bases with Catastrophes and gain benefits by power boosts and other benefits that are activated when a base is replaced."
     },
     {
-      "name": "Squirrel",
-      "complexity": "4/5",
-      "author": "Cat&dungeons1",
-      "description": "Create copy of Squirrel to sacrifice them to win! Offers a new way to play!",
-      "id": 1230,
-      "setId": 1001
-    },
-    {
-      "name": "Stardust Crusaders",
-      "complexity": "3/5",
-      "author": "Berryl",
-      "description": "Use big minions with linked actions to cause massive damage before bases score.",
-      "id": 1231,
-      "setId": 1001
-    },
-    {
-      "name": "Stegos",
-      "complexity": "3.5/5",
-      "author": "LordMewtwo73",
-      "description": "Is Armor Stego your favorite minion in Smash Up? Well look no further, because this faction will fulfill all of your wildest CAM dreams!",
-      "id": 1232,
-      "setId": 1001
-    },
-    {
-      "name": "Stephen Troopers",
-      "complexity": "1.5/5",
-      "author": "ludichrisness",
-      "description": "Get name-based benefits by deploying and powering up your minions, who are all named Stephen.",
-      "id": 1233,
-      "setId": 1001
-    },
-    {
-      "name": "Stickmen",
-      "complexity": "2/5",
-      "author": "Colinus Haggardus",
-      "description": "Use the power of the imagination to bring ideas to life and jump back quickly from rejected ideas.",
-      "id": 1234,
-      "setId": 1001
-    },
-    {
-      "name": "Storm Orcs",
-      "complexity": "2/5",
-      "author": "Sonus",
-      "description": "Chain multiple small instances of gaining power in a turn among multiple minions.",
-      "id": 1235,
-      "setId": 1001
-    },
-    {
-      "name": "Storytellers",
-      "complexity": "4.5/5",
-      "author": "CaptainCosmic",
-      "description": "Create a Story-based engine that your minions can interpret however they like.",
-      "id": 1236,
-      "setId": 1001
-    },
-    {
-      "name": "Straw Hats",
-      "complexity": "3/5",
-      "author": "phantomic109, Captain Cardboard",
-      "description": "Move your minions around and gain advantages by scoring more bases.",
-      "id": 1237,
-      "setId": 1001
-    },
-    {
-      "name": "Streets of Fire",
-      "complexity": "2/5",
-      "author": "AndIQuote",
-      "description": "Carefully build up your resources by trading action plays for other benefits before unleashing precise, powerful attacks on bases.",
-      "id": 1238,
-      "setId": 1001
-    },
-    {
-      "name": "Summoners",
-      "complexity": "5/5",
-      "author": "ludichrisness",
-      "description": "Summon minions and titans from other factions not being played this game.",
-      "id": 1239,
-      "setId": 1001
-    },
-    {
-      "name": "Sun Gods",
-      "complexity": "4/5",
-      "author": "SirErrant",
-      "description": "Harness the radiant Energy of the Sun Gods, biding your time with stasis counters before bursting forth with glorious power.",
-      "id": 1240,
-      "setId": 1001
-    },
-    {
-      "name": "Super Anime Swordfighters",
-      "complexity": "3.5/5",
-      "author": "SirErrant",
-      "description": "Play with a roster of Super Smash Bros. fighters armed with special Blades who specialize in seeing and changing the future.",
-      "id": 1241,
-      "setId": 1001
-    },
-    {
-      "name": "Super Mario Bros.",
-      "complexity": "2/5",
-      "author": "bae gel",
-      "description": "One-up the competition with an assortment of useful power-ups, and gain benefits for having characters with modifiers on them.",
-      "id": 1242,
-      "setId": 1001
-    },
-    {
-      "name": "Suppervillains",
-      "complexity": "4/5",
-      "author": "ludichrisness",
-      "description": "Take advantage of other players' rare minions to advance your Schemes.",
-      "id": 1243,
-      "setId": 1001
-    },
-    {
-      "name": "Survivors (RoR1)",
-      "complexity": "3/5",
-      "author": "LordMewtwo73",
-      "description": "Team up with your fellow survivors and utilize various equipment and weapons to keep yourself alive. Choose from five different mini-factions to change up your deck in each game.",
-      "id": 1244,
-      "setId": 1001
-    },
-    {
-      "name": "The Sword in the Stone (AndIQuote)",
-      "complexity": "3/5",
-      "author": "AndIQuote",
-      "description": "Use your wits and knowledge to plan ahead, driving strategies and opportunities around the cards on top of your deck.",
-      "id": 1245,
-      "setId": 1001
-    },
-    {
-      "name": "The Sword in the Stone (Crossfire7)",
-      "complexity": "3/5",
+      "id": 1038,
+      "name": "Cave Men",
+      "setId": 1001,
       "author": "Crossfire7",
-      "description": "Draw and play Sword actions, increase the power of characters, and benefit from controlling characters of power 5 or more.",
-      "id": 1246,
-      "setId": 1001
-    },
-    {
-      "name": "Symbiotes",
-      "complexity": "4/5",
-      "author": "LordMewtwo73",
-      "description": "Attach the symbiote to your minions to give them enhanced and increasing power, at the cost of their eventual demise. Transform into special symbiote minions from the Linked deck to unleash their true potential.",
-      "id": 1247,
-      "setId": 1001
-    },
-    {
-      "name": "Tacolytes",
       "complexity": "3/5",
-      "author": "CaptainCosmic and ludichrisness",
-      "description": "Add new flavors to your Madness cards and devour them to rush the bases before things gets too crazy.",
-      "id": 1248,
-      "setId": 1001
+      "description": "Play actions on bases, then destroy them to play extra minions and power up your minions."
     },
     {
-      "name": "Tattooists",
-      "complexity": "3/5",
-      "author": "Onassi",
-      "description": "Search your deck for an action and place it on a minion - even if it's not a minion modifier.",
-      "id": 1249,
-      "setId": 1001
-    },
-    {
-      "name": "Tau",
-      "complexity": "2/5",
-      "author": "Sonus",
-      "description": "Use Drones (these are PoBs) to support your minions.  Benefits for spreading your cards out to then converge later.  Slow down bases while building up, and use their Drones to protect against solos.",
-      "id": 1250,
-      "setId": 1001
-    },
-    {
-      "name": "Team Z",
-      "complexity": "2.5/5",
-      "author": "Lime17",
-      "description": "Either use risky maneuvers to score bases with just one minion for great rewards, or stack minions on a base to build and burst power safely. Use movement and your titan to help you achieve both.",
-      "id": 1251,
-      "setId": 1001
-    },
-    {
-      "name": "Team Fortress 2",
-      "complexity": "3/5",
+      "id": 1039,
+      "name": "Centaurs (Munchkin)",
+      "setId": 1001,
       "author": "GammaMania",
-      "description": "Use a cast of ten unique mercenaries to complete objectives on base modifiers for VP.",
-      "id": 1252,
-      "setId": 1001
-    },
-    {
-      "name": "Ten Little Soldier Boys",
-      "complexity": "3.5/5",
-      "author": "AndIQuote",
-      "description": "Play with a cast of ten unique minions and trigger powerful effects as the number of minions in the discard pile grows.",
-      "id": 1253,
-      "setId": 1001
-    },
-    {
-      "name": "Terminators",
-      "complexity": "3/5",
-      "author": "Crossfire7",
-      "description": "Terminators from the future seek to destroy their targets, especially before bases score, and persist after going to the discard pile in the form of horrifying Endoskeletons.",
-      "id": 1254,
-      "setId": 1001
-    },
-    {
-      "name": "Three Houses",
-      "complexity": "3.5/5",
-      "author": "SirErrant",
-      "description": "Lead students into battle, granting powerful relic weapons to the right users to strengthen their abilities.",
-      "id": 1255,
-      "setId": 1001
-    },
-    {
-      "name": "Thrifters",
-      "complexity": "3/5",
-      "author": "CaptainCosmic",
-      "description": "Give your cards a second-hand use when they are in your discard pile.",
-      "id": 1256,
-      "setId": 1001
-    },
-    {
-      "name": "Ticket to Ride",
       "complexity": "4/5",
-      "author": "Berryl",
-      "description": "Spread Train cars out and hold their tickets in hand to go on as long a train ride as possible.",
-      "id": 1257,
-      "setId": 1001
+      "description": "Play hybrid actions called Steeds, which can be played on either a minion or base and have different effects for each. Move your cards."
     },
     {
-      "name": "Time Realm",
-      "complexity": "5/5",
-      "author": "Sonus",
-      "description": "Skip plays on a future turn to strengthen the current turn.",
-      "id": 1258,
-      "setId": 1001
-    },
-    {
-      "name": "Tom Bombadil",
-      "complexity": "4/5",
-      "author": "CaptainCosmic and ludichrisness",
-      "description": "Play with a reduced cast of merry fellows and their collection of Rhymes that let you drastically change what your cards do.",
-      "id": 1259,
-      "setId": 1001
-    },
-    {
-      "name": "Trebuchets",
-      "complexity": "4/5",
-      "author": "CaptainCosmic",
-      "description": "Load your cards on your cards to release them in a massive turn of extra plays.",
-      "id": 1260,
-      "setId": 1001
-    },
-    {
-      "name": "TrollHunters",
-      "complexity": "2/5",
-      "author": "Colinus Haggardus",
-      "description": "Duel your opponents and assert your dominance on bases.",
-      "id": 1261,
-      "setId": 1001
-    },
-    {
-      "name": "Trolls",
+      "id": 1040,
+      "name": "Centurions",
+      "setId": 1001,
+      "author": "Bandit",
       "complexity": "3/5",
-      "author": "nanpaCrown",
-      "description": "Use the dancestor’s deaths to bring in beta trolls which care about rare minion quantity",
-      "id": 1262,
-      "setId": 1001
+      "description": "Smash additional decks together and utilize your partner faction to your full potential."
     },
     {
-      "name": "Tuckskin Rikers",
-      "complexity": "3/5",
-      "author": "Snakevin",
-      "description": "Force your opponents to bury cards for you to either destroy or take for yourself.",
-      "id": 1263,
-      "setId": 1001
-    },
-    {
-      "name": "Twilight Struggle",
-      "complexity": "5/5",
-      "author": "ludichrisness",
-      "description": "Control the tempo of the game by dictating how your rivals are allowed to play while you prepare for the possibility of nuclear war.",
-      "id": 1264,
-      "setId": 1001
-    },
-    {
-      "name": "Tyranids",
-      "complexity": "3/5",
+      "id": 1041,
+      "name": "Chaos Gods",
+      "setId": 1001,
       "author": "Ludum",
-      "description": "Spread your minions among bases, gather your troops to break them and steal the victory at the last minute.",
-      "id": 1265,
-      "setId": 1001
-    },
-    {
-      "name": "Undead Scourge",
-      "complexity": "3.5/5",
-      "author": "Lonan",
-      "description": "Skeletonize and control minions when destroying them or by summoning them from any player's discard pile. Swarm bases with your army of the dead.",
-      "id": 1266,
-      "setId": 1001
-    },
-    {
-      "name": "Unseelies",
       "complexity": "4/5",
-      "author": "Ludichrisness",
-      "description": "Sling your stronger minions for their abilities while sneaking past traps which punish all players.",
-      "id": 1267,
-      "setId": 1001
+      "description": "Switch between your 4 titans at the right time to spread chaos across the board."
     },
     {
-      "name": "Urban Architects",
-      "complexity": "3.5/5",
-      "author": "CaptainCosmic",
-      "description": "Manipulate breakpoints to take advantage of your cards' abilities. Gain momentum from breakpoint changes.",
-      "id": 1268,
-      "setId": 1001
-    },
-    {
-      "name": "Vessels",
-      "complexity": "4/5",
-      "author": "Berryl",
-      "description": "Keep equity on your minions all game long.",
-      "id": 1269,
-      "setId": 1001
-    },
-    {
-      "name": "Vs. Spiders",
-      "complexity": "4/5",
-      "author": "Georg",
-      "description": "Spread Webs and ensnare opposing minions while infesting the field with lots of small spider minions.",
-      "id": 1270,
-      "setId": 1001
-    },
-    {
-      "name": "Wakanda",
+      "id": 1042,
+      "name": "Chess",
+      "setId": 1001,
+      "author": "Grey Sherpa",
       "complexity": "3/5",
-      "author": "ludichrisness",
-      "description": "Combine the forces of two different Tribes and upgrade cards with Vibranium to force your rivals out of your home territory.",
-      "id": 1271,
-      "setId": 1001
+      "description": "Utilize a unique minion structure to perform heavy hitting minion combos directly out of your deck."
     },
     {
-      "name": "Warmages",
+      "id": 1043,
+      "name": "Chimeras",
+      "setId": 1001,
+      "author": "Lonan",
       "complexity": "3.5/5",
-      "author": "ludichrisness",
-      "description": "Launch powerful actions into the air to burn down bases and to eliminate rivals before the base scores.",
-      "id": 1272,
-      "setId": 1001
+      "description": "Create Chimeras with powerful abilities by destroying their ingredients to make powerful minions with powerful effects."
     },
     {
-      "name": "Water Realm",
+      "id": 1044,
+      "name": "Chrono Drifters",
+      "setId": 1001,
+      "author": "Lime17",
+      "complexity": "5/5",
+      "description": "Control the board with base modifiers and delay other players' threatening cards by putting them in stasis...all while managing a dangerous titan that any player could play, but nobody wants to!"
+    },
+    {
+      "id": 1045,
+      "name": "Chuck Norris (formerly Action Heroes)",
+      "setId": 1001,
+      "author": "Lonan",
       "complexity": "2/5",
-      "author": "Sonus",
-      "description": "Draw cards, gain power and plays from drawing cards, and wash away bases and weak minions.  Can also protect you from bases and abilities!",
-      "id": 1273,
-      "setId": 1001
+      "description": "Go for the Ultimate Win by spelling Chuck Norris's name or blast bases with letters of his name and powerful action heroes."
     },
     {
-      "name": "Weirdos",
-      "complexity": "4/5",
-      "author": "WisdomEnvy",
-      "description": "Play minions with threatening specials. Swing bases before scoring, or trigger your abilities early to score on your own.",
-      "id": 1274,
-      "setId": 1001
+      "id": 1046,
+      "name": "Circus Performers",
+      "setId": 1001,
+      "author": "ludichrisness, Snakevin",
+      "complexity": "3/5",
+      "description": "Play with a troupe of smaller units who boost each other up to activate their abilities together."
     },
     {
-      "name": "Whales",
-      "complexity": "2.5/5",
-      "author": "Gecko",
-      "description": "Move minions around to activate abilities that retrieve cards or add power. Set off a chain of movement by Migrating.",
-      "id": 1275,
-      "setId": 1001
-    },
-    {
-      "name": "Wingspan",
+      "id": 1047,
+      "name": "Clone Army",
+      "setId": 1001,
+      "author": "LordMewtwo73",
       "complexity": "2/5",
-      "author": "Onassi",
-      "description": "Build an engine by nesting your minions on bases and play additional minions there. Make use of the Bonus Card side deck.",
-      "id": 1276,
-      "setId": 1001
+      "description": "Overwhelm opponents with powerful weaponry and destructive capabilities manned by multiple unique minions, most of whom share a common name."
     },
     {
-      "name": "Witches",
-      "complexity": "4/5",
-      "author": "ludichrisness",
-      "description": "Cast Hexes and power them up with different kinds of counters and cards to benefit you or hurt others.",
-      "id": 1277,
-      "setId": 1001
-    },
-    {
-      "name": "Wolverine Corps.",
-      "complexity": "2/5",
-      "author": "Colinus Haggardus",
-      "description": "Gain a permanent foothold with the most ruthless animal military unit and storm your way to victory.",
-      "id": 1278,
-      "setId": 1001
-    },
-    {
-      "name": "World Archery",
-      "complexity": "2.5/5",
-      "author": "Sibeskia Faithful",
-      "description": "Build up your power with training and cards, then when the moment is right, take your shot and win.",
-      "id": 1279,
-      "setId": 1001
-    },
-    {
-      "name": "Wretched Pigmen",
-      "complexity": "2/5",
-      "author": "CaptainCosmic",
-      "description": "Arrange your deck and swarm the board with swine.",
-      "id": 1280,
-      "setId": 1001
-    },
-    {
-      "name": "X-Nauts",
-      "complexity": "1.5/5",
+      "id": 1048,
+      "name": "Clue",
+      "setId": 1001,
       "author": "AndIQuote",
-      "description": "A Hello World! faction with an emphasis on converting excess power into breakpoint damage and additional VP.",
+      "complexity": "5/5",
+      "description": "Engage all players in a murder mystery guessing game, using your cards to give yourself an advantage."
+    },
+    {
+      "id": 1049,
+      "name": "Colosseum of Fools",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "2.5/5",
+      "description": "Maintain the highest total power in play and corral opponents to where you want them."
+    },
+    {
+      "id": 1050,
+      "name": "Colour Out Of Space, The",
+      "setId": 1001,
+      "author": "Snakevin, ludichrisness",
+      "complexity": "4/5",
+      "description": "Play with ten identical minions who bottom-deck themselves to play actions off the top. Spend Madness for powerful effects before banishing it back to whence it came."
+    },
+    {
+      "id": 1051,
+      "name": "Comedians",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "2/5",
+      "description": "Play pranks on other players by increasing their power but taking it away when it counts. Use your minions to power up bases other than their own."
+    },
+    {
+      "id": 1052,
+      "name": "Conquerors",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3/5",
+      "description": "Get first place on bases quickly to generate momentum, converge minions during destruction, and gain benefits from having the upper hand."
+    },
+    {
+      "id": 1053,
+      "name": "Cooking Mama",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "3/5",
+      "description": "Race against time to complete recipes and wow the family! Use the new Mission cards to spice up your game and serve up some victory!"
+    },
+    {
+      "id": 1054,
+      "name": "Cosmoballers",
+      "setId": 1001,
+      "author": "Onassi",
+      "complexity": "3/5",
+      "description": "Transfer actions that grant talents between your minions for access to card draw, recursion, and extra plays."
+    },
+    {
+      "id": 1055,
+      "name": "Coven",
+      "setId": 1001,
+      "author": "Grey Sherpa",
+      "complexity": "3/5",
+      "description": "Master your discard pile with powerful actions and recovery."
+    },
+    {
+      "id": 1056,
+      "name": "Cribbage",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "3/5",
+      "description": "Make carefully calculated plays and be rewarded with VP for successfully achieving goals."
+    },
+    {
+      "id": 1057,
+      "name": "C.R.O.W.S.",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "2/5",
+      "description": "This faction of crows rally against words using that fifth symbol as a crutch."
+    },
+    {
+      "id": 1058,
+      "name": "Dark Souls",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "5/5",
+      "description": "Hunt down four powerful Souls to upgrade your deck and link the fire."
+    },
+    {
+      "id": 1059,
+      "name": "Dante's Inferno",
+      "setId": 1001,
+      "author": "Sasha",
+      "complexity": "3/5",
+      "description": "Hinder your opponents' strategies by gifting them cards with self-harming effects and gain advantage during their downfall or when they use/discard the given cards."
+    },
+    {
+      "id": 1060,
+      "name": "Diabolists",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "3.5/5",
+      "description": "Your minions come into play shackled, limiting their full potential. Break their bindings to unleash their power."
+    },
+    {
+      "id": 1061,
+      "name": "Diamond is Unbreakable",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "2.5/5",
+      "description": "Play actions on anyone's minions and control the flow of the board based on who they're attached to."
+    },
+    {
+      "id": 1062,
+      "name": "Djinni",
+      "setId": 1001,
+      "author": "Awesom360",
+      "complexity": "3/5",
+      "description": "Play Wishes on minions which have powerful and versatile abilities that can also backfire... badly."
+    },
+    {
+      "id": 1063,
+      "name": "Doctor Who",
+      "setId": 1001,
+      "author": "AndIQuote",
+      "complexity": "4/5",
+      "description": "Choose one of the many incarnations of The Doctor, each with their own gameplan and cards, to combine with a set of 10 shared cards."
+    },
+    {
+      "id": 1064,
+      "name": "Double Agents",
+      "setId": 1001,
+      "author": "Onassi, Nietzschean",
+      "complexity": "3/5",
+      "description": "Shuffle your cards into other players' decks to thin yours and dilute their draw; reveal your cards from their hand or deck to sabotage them."
+    },
+    {
+      "id": 1065,
+      "name": "Dream Warriors",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "3/5",
+      "description": "Play lots of small minions which can recur themselves and grow stronger the more of them you play."
+    },
+    {
+      "id": 1066,
+      "name": "Druids",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "4/5",
+      "description": "Harness the power of the sun and earth in Energy and burying, controlling your territory and surprising your foes."
+    },
+    {
+      "id": 1067,
+      "name": "Duelists",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "1.5/5",
+      "description": "Activate your minions' abilities with repeated Swordplay actions and +1 power counters."
+    },
+    {
+      "id": 1068,
+      "name": "Dystopian Regime",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "2.5/5",
+      "description": "Conquer bases through swarm change of control and removing +1 power counters for abilities."
+    },
+    {
+      "id": 1069,
+      "name": "Eggs",
+      "setId": 1001,
+      "author": "GreySherpa",
+      "complexity": "3.5/5",
+      "description": "Use self destruction to convert your minion power into heaps of +1 power counters. Sacrifice it all to summon the devastating Omelette."
+    },
+    {
+      "id": 1070,
+      "name": "Electric Elementals",
+      "setId": 1001,
+      "author": "nanpaCrown",
+      "complexity": "2/5",
+      "description": "Electric Elementals lay down cards to charge and explode on a subsequent turn."
+    },
+    {
+      "id": 1071,
+      "name": "Empire, The",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "2.5/5",
+      "description": "Utilize your two Death Stars to spread your forces across the board for global domination, then quickly collapse your power onto unsuspecting bases."
+    },
+    {
+      "id": 1072,
+      "name": "Emu Army",
+      "setId": 1001,
+      "author": "Sibeskia Faithful",
+      "complexity": "2.5/5",
+      "description": "Dodge destruction, spread out, and attack players with more power."
+    },
+    {
+      "id": 1073,
+      "name": "Encanto",
+      "setId": 1001,
+      "author": "Geek13579",
+      "complexity": "4/5",
+      "description": "Cancel the abilities on any player's cards and look through opponents' cards to make informed decisions about upcoming plays."
+    },
+    {
+      "id": 1074,
+      "name": "Enchanters",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "3/5",
+      "description": "Bring opponents' minions under your spell and weaken their minds with Marks."
+    },
+    {
+      "id": 1075,
+      "name": "Energy Beings",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "1.5/5",
+      "description": "Increase power to burst bases and gain momentum from power increases."
+    },
+    {
+      "id": 1076,
+      "name": "Engineers",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "1.5/5",
+      "description": "Increase numbers on your cards, making them more effective."
+    },
+    {
+      "id": 1077,
+      "name": "Family Recipes",
+      "setId": 1001,
+      "author": "SirErrant",
+      "complexity": "3.5/5",
+      "description": "Dinner's ready! Pair up with family dishes from across the world, using Stasis to cook up homemade recipes and swarm your enemies' taste buds—with love."
+    },
+    {
+      "id": 1078,
+      "name": "Fantasy Heroes",
+      "setId": 1001,
+      "author": "phantomic109",
+      "complexity": "1.5/5",
+      "description": "Get added power boosts when your minions increase in power in this Hello World! faction."
+    },
+    {
+      "id": 1079,
+      "name": "Farm Fighters",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "2.5/5",
+      "description": "Play and transfer actions between your minions. Gain momentum the more you move."
+    },
+    {
+      "id": 1080,
+      "name": "Fast Food",
+      "setId": 1001,
+      "author": "Sonus",
+      "complexity": "3/5",
+      "description": "Cares about different printed powers on your own minions. Utilizes play on minion actions as well as a the 'condiment' keyword. Extra minion plays and draw."
+    },
+    {
+      "id": 1081,
+      "name": "Fellowship of the Kiwi",
+      "setId": 1001,
+      "author": "Sibeskia Faithful",
+      "complexity": "3.5/5",
+      "description": "Use your cute minions, sad eyes, and incredible ability to survive, to sweep in and save your Smash Up from the dark forces."
+    },
+    {
+      "id": 1082,
+      "name": "FernGully",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "5/5",
+      "description": "Build an elaborate ecosystem of cards which use power counters to defend their bases against incursions."
+    },
+    {
+      "id": 1083,
+      "name": "Film Noir",
+      "setId": 1001,
+      "author": "SirErrant",
+      "complexity": "4/5",
+      "description": "Flirt with danger by destroying your own minions, triggering powerful abilities like extra plays and movement."
+    },
+    {
+      "id": 1084,
+      "name": "Final Fantasy V",
+      "setId": 1001,
+      "author": "AndIQuote",
+      "complexity": "3.5/5",
+      "description": "Equip your minions with actions that grant versatile abilities and become even stronger when paired with one of the Warriors of Light (or Gilgamesh)."
+    },
+    {
+      "id": 1085,
+      "name": "Final Fantasy IX",
+      "setId": 1001,
+      "author": "WisdomEnvy",
+      "complexity": "3/5",
+      "description": "Share resources amongst your minions to power up unique talents."
+    },
+    {
+      "id": 1086,
+      "name": "Final Fantasy Tactics: Jobs",
+      "setId": 1001,
+      "author": "Sonus",
+      "complexity": "4/5",
+      "description": "They have 12 unique minions with various synergies to discover among them. Find the right Job for the task."
+    },
+    {
+      "id": 1087,
+      "name": "Fine Dining",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "3/5",
+      "description": "Access your rare cards and incentivize other players to play where you want them to, gaining advantages when you maintain the lead."
+    },
+    {
+      "id": 1088,
+      "name": "Fishermen",
+      "setId": 1001,
+      "author": "eisbread",
+      "complexity": "4/5",
+      "description": "Lure opponents onto bases with tempting rewards, then reel them in at the last minute and ensnare them."
+    },
+    {
+      "id": 1089,
+      "name": "Five Nights at Freddy's",
+      "setId": 1001,
+      "author": "Just Lazer DGE",
+      "complexity": "2/5",
+      "description": "Build up Fright counters"
+    },
+    {
+      "id": 1090,
+      "name": "Footballers",
+      "setId": 1001,
+      "author": "phantomic109, 10037",
+      "complexity": "2.5/5",
+      "description": "Move your Titan from base to base to increase your chance of being able to activate its Talent."
+    },
+    {
+      "id": 1091,
+      "name": "Fortune Tellers",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "4/5",
+      "description": "Do you dare seek knowledge your future, even if the price is your sanity? Delay your Madness into the future with stasis counters until the time is right, then leverage it for extra plays, power counters, and card draw."
+    },
+    {
+      "id": 1092,
+      "name": "Fours Users",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3.5/5",
+      "description": "Choose your own destiny as you unlock powers through following the light or dark side."
+    },
+    {
+      "id": 1093,
+      "name": "Gacha Gamers",
+      "setId": 1001,
+      "author": "Lime17",
+      "complexity": "4/5",
+      "description": "Play with an extra deck containing powerful cards and weaker cards, using your main deck to gamble on which ones you get and tip the odds in your favor."
+    },
+    {
+      "id": 1094,
+      "name": "Geomancers",
+      "setId": 1001,
+      "author": "AndIQuote",
+      "complexity": "4.5/5",
+      "description": "Bury opponents' minions and reap benefits when they are uncovered."
+    },
+    {
+      "id": 1095,
+      "name": "Gladiators",
+      "setId": 1001,
+      "author": "Geek13579",
+      "complexity": "3/5",
+      "description": "Duel honorably and capture opposing minions upon their defeat to bolster your ranks."
+    },
+    {
+      "id": 1096,
+      "name": "Goblin Mercenaries",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3/5",
+      "description": "Trade cards with other players and use manipulative Goblin tactics to gain advantages with your transactions."
+    },
+    {
+      "id": 1097,
+      "name": "The Godfather",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "3/5",
+      "description": "Call upon your associates and hold your opponents' cards hostage."
+    },
+    {
+      "id": 1098,
+      "name": "Godseekers",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "3/5",
+      "description": "Steal other players' minions using a network of stored cards."
+    },
+    {
+      "id": 1099,
+      "name": "Golden Sun",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "4/5",
+      "description": "Play your Djinn for useful abilities, then combine them in your discard pile to unleash powerful Summon actions from your extra deck."
+    },
+    {
+      "id": 1100,
+      "name": "Golfers",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "4.5/5",
+      "description": "Prepare a big chain of terminal plays."
+    },
+    {
+      "id": 1101,
+      "name": "Gorgons",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "4/5",
+      "description": "Fill bases with buried cards, then shatter them to release the power trapped inside."
+    },
+    {
+      "id": 1102,
+      "name": "Graboids",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "4/5",
+      "description": "Keep your opponents on edge with cards that attack from being buried, move buried cards and gain benefits from buried cards."
+    },
+    {
+      "id": 1103,
+      "name": "Grampires",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "2.5/5",
+      "description": "Go in and out of stasis, powering up and attacking bases; repeat on-play abilities through placing played cards back in stasis."
+    },
+    {
+      "id": 1104,
+      "name": "Gravity Falls",
+      "setId": 1001,
+      "author": "AndIQuote",
+      "complexity": "4.5/5",
+      "description": "Draw and share Madness cards with other players while trying to end the game with just enough Madness in your discard pile."
+    },
+    {
+      "id": 1105,
+      "name": "Grillers",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "3.5/5",
+      "description": "Time your bursts to match when your cards have built up enough equity."
+    },
+    {
+      "id": 1106,
+      "name": "The Grimm Troupe",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "3/5",
+      "description": "Stall the game to complete a multi-step Ritual."
+    },
+    {
+      "id": 1107,
+      "name": "Hackers",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "3/5",
+      "description": "Siphon opponents’ power and use it for your own purposes to cascade as many bases as possible into breaking at once with this Hello World! faction."
+    },
+    {
+      "id": 1108,
+      "name": "Hades",
+      "setId": 1001,
+      "author": "AndIQuote",
+      "complexity": "3/5",
+      "description": "Play twelve powerful modifiers and empower Hades' lone minion."
+    },
+    {
+      "id": 1109,
+      "name": "Hibernators",
+      "setId": 1001,
+      "author": "eisbread",
+      "complexity": "2.5/5",
+      "description": "Accumulate cards in your hand for winter, gain benefits for maintaining a large hand size, and play extra minions come spring."
+    },
+    {
+      "id": 1110,
+      "name": "Highlanders",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3/5",
+      "description": "Store card under cards and activate abilities. Preserve singularly powerful minions."
+    },
+    {
+      "id": 1111,
+      "name": "Ice Golems",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "3.5/5",
+      "description": "Freeze the board and snowball to victory."
+    },
+    {
+      "id": 1112,
+      "name": "Iconoclasts",
+      "setId": 1001,
+      "author": "Onassi, ludichrisness",
+      "complexity": "3.5/5",
+      "description": "Bring new Colossus mini-bases into play and score them to win rewards while the rest of the world crumbles."
+    },
+    {
+      "id": 1113,
+      "name": "Iditarod",
+      "setId": 1001,
+      "author": "Sibeskia Faithful",
+      "complexity": "3/5",
+      "description": "Set up checkpoints, move your minions around to build up Energy, and lead your sled team to victory."
+    },
+    {
+      "id": 1114,
+      "name": "Illusionists",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "2/5",
+      "description": "Lead with low power footprints and always keep your best cards available."
+    },
+    {
+      "id": 1115,
+      "name": "Inception",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "5/5",
+      "description": "Get inside your rival's head and play powerful but situational cards with great timing while you plan an elaborate operation to dive into a recursive turn."
+    },
+    {
+      "id": 1116,
+      "name": "Jack O'Lanterns",
+      "setId": 1001,
+      "author": "Onassi",
+      "complexity": "2.5/5",
+      "description": "Play with a day/night cycle, where your cards are more passive and defensive during the day and more aggressive at night."
+    },
+    {
+      "id": 1117,
+      "name": "Japanese Poets",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "2/5",
+      "description": "One and one factions,\nSprout a deck as buds in spring.\nPaul Peterson's dream."
+    },
+    {
+      "id": 1118,
+      "name": "Jazz Singers",
+      "setId": 1001,
+      "author": "SirErrant",
+      "complexity": "2/5",
+      "description": "Improvise on the spot with these Special singers by playing versatile standard actions and manipulating ORs to jazz up your plays."
+    },
+    {
+      "id": 1119,
+      "name": "Jedi Order",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "3/5",
+      "description": "Use your Lightsabers to stock up on future counters and plan your victory turns in advance."
+    },
+    {
+      "id": 1120,
+      "name": "Jellyfish",
+      "setId": 1001,
+      "author": "Onassi",
+      "complexity": "4/5",
+      "description": "Spread out on multiple bases and build Marks on your minions to apply negative effects to others."
+    },
+    {
+      "id": 1121,
+      "name": "Jocks",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "2.5/5",
+      "description": "Swarm Bench Warmers, stomp out troublesome bases, and assert dominance on your turn."
+    },
+    {
+      "id": 1122,
+      "name": "Jungle Islander Cavalry",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "2.5/5",
+      "description": "Enjoy a feel reminiscent-yet-distinct style from a combination of Bear Cavalry, Polynesian Voyagers, and Killer Plants in these mini-factions."
+    },
+    {
+      "id": 1123,
+      "name": "Jurassic Park",
+      "setId": 1001,
+      "author": "AndIQuote",
+      "complexity": "4/5",
+      "description": "Race for survival against the terrifying T-Rex, using all manner of tricks and traps to take advantage of movement and titans."
+    },
+    {
+      "id": 1124,
+      "name": "Kamar-Taj",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "3/5",
+      "description": "Play minions from stasis to bounce them in and out of the Mirror Dimension."
+    },
+    {
+      "id": 1125,
+      "name": "Kart Racers",
+      "setId": 1001,
+      "author": "GammaMania",
+      "complexity": "2.5/5",
+      "description": "Race your minions around the bases in a linear direction, and gain power and other benefits for moving minions."
+    },
+    {
+      "id": 1126,
+      "name": "King Kong",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "2.5/5",
+      "description": "Use play on base actions to crush bases. Gain benefits from destruction and return to hand."
+    },
+    {
+      "id": 1127,
+      "name": "Kobolds",
+      "setId": 1001,
+      "author": "GammaMania",
+      "complexity": "2/5",
+      "description": "Play extra low-power minions on bases where you control high-power minions."
+    },
+    {
+      "id": 1128,
+      "name": "The Legend of Zelda (bae_gel)",
+      "setId": 1001,
+      "author": "bae_gel",
+      "complexity": "3/5",
+      "description": "Unlock the power of OR abilities by giving them new effects!"
+    },
+    {
+      "id": 1129,
+      "name": "The Legend of Zelda (phantomic109)",
+      "setId": 1001,
+      "author": "phantomic109",
+      "complexity": "3.5/5",
+      "description": "Adjust your minions' power using +1 and -1 power counters to trigger conditional abilities."
+    },
+    {
+      "id": 1130,
+      "name": "LEGO",
+      "setId": 1001,
+      "author": "Bandit",
+      "complexity": "2/5",
+      "description": "Piece common cards together to create big plays."
+    },
+    {
+      "id": 1131,
+      "name": "Liches",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "2/5",
+      "description": "Use discarded minions as fuel for a horde of the undead."
+    },
+    {
+      "id": 1132,
+      "name": "Living Dead",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "4/5",
+      "description": "Bury multiple minions from the discard pile. Infect other players' minions that you bury and then eventually uncover under your control."
+    },
+    {
+      "id": 1133,
+      "name": "Lobotomy Corporation",
+      "setId": 1001,
+      "author": "Just Lazer DGE",
+      "complexity": "Yes/5",
+      "description": "Manage abnormalities."
+    },
+    {
+      "id": 1134,
+      "name": "Loopers",
+      "setId": 1001,
+      "author": "Onassi",
+      "complexity": "5/5",
+      "description": "Repeatedly play minions and activate their abilities, or find the right combination of cards for an infinite VP combo."
+    },
+    {
+      "id": 1135,
+      "name": "Lumas",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "3/5",
+      "description": "Grow threatening in-play specials the longer they remain in play, coupled with a powerful movement package."
+    },
+    {
+      "id": 1136,
+      "name": "Lunatics",
+      "setId": 1001,
+      "author": "Onassi",
+      "complexity": "4/5",
+      "description": "Bring your killer titan in and out of play, raising its power by destroying minions."
+    },
+    {
+      "id": 1137,
+      "name": "MacGyver",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3/5",
+      "description": "Assemble objects (minions) together to unlock benefits and abilities."
+    },
+    {
+      "id": 1138,
+      "name": "Mad Chemists",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "4/5",
+      "description": "Build your own deck and mix your cards to obtain a variety of effects."
+    },
+    {
+      "id": 1139,
+      "name": "Mafia",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3/5",
+      "description": "Pay off opponents for benefits, charge players for using your turf, and place hits on troublesome minions to silence them."
+    },
+    {
+      "id": 1140,
+      "name": "Mantis Tribe",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "4/5",
+      "description": "Win bases on opponents' turns."
+    },
+    {
+      "id": 1141,
+      "name": "Mariachi",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "3.5/5",
+      "description": "Build a musical engine by playing cards with abilities that all players can use."
+    },
+    {
+      "id": 1142,
+      "name": "Mega Man",
+      "setId": 1001,
+      "author": "nanpaCrown",
+      "complexity": "3.5/5",
+      "description": "Mix the granted abilities of actions to create a super fighting robot."
+    },
+    {
+      "id": 1143,
+      "name": "Metroid",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "4/5",
+      "description": "Blast through your deck with upgraded Beam attacks, discovering secrets hidden within."
+    },
+    {
+      "id": 1144,
+      "name": "Middle Earth: Mordor",
+      "setId": 1001,
+      "author": "Sibeskia Faithful",
+      "complexity": "4/5",
+      "description": "One ring to rule them all, one ring to find them, one ring to bring them all, and in the darkness bind them in the Land of Mordor where shadows lie."
+    },
+    {
+      "id": 1145,
+      "name": "Mind Flayers",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "3.5/5",
+      "description": "Win duels to take control of other players' minions and infect them with Madness, or destroy their minds with Illithid Tadpoles to grow your ranks."
+    },
+    {
+      "id": 1146,
+      "name": "Minstrels",
+      "setId": 1001,
+      "author": "GammaMania",
+      "complexity": "2.5/5",
+      "description": "Play Song actions on your minions, which affect everyone at their base, and use those songs to take control of other players' minions."
+    },
+    {
+      "id": 1147,
+      "name": "Misfits",
+      "setId": 1001,
+      "author": "Multiple authors",
+      "complexity": "2/5",
+      "description": "An All Stars-style collection of cards that were deemed “misfits” in their original faction but gain new life in another context."
+    },
+    {
+      "id": 1148,
+      "name": "Monopoly",
+      "setId": 1001,
+      "author": "Ludum",
+      "complexity": "3/5",
+      "description": "It's money time! Build houses and hotels, charge +1 power counters rent to other players, and use all your wealth to boost your minions."
+    },
+    {
+      "id": 1149,
+      "name": "Moonlighters",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "2/5",
+      "description": "Search for powerful minions, switch them out, and choose one of two unique abilities for the minion's job."
+    },
+    {
+      "id": 1150,
+      "name": "Monster Hunters",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "2/5",
+      "description": "Lay enticing traps for other player's minions and cash out when you destroy them."
+    },
+    {
+      "id": 1151,
+      "name": "Mortal Kombat",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3/5",
+      "description": "Perform fatalities in the form of your minions' special abilities to overtake opponents as a base scores."
+    },
+    {
+      "id": 1152,
+      "name": "Mountain Dwarves",
+      "setId": 1001,
+      "author": "Sonus",
+      "complexity": "3/5",
+      "description": "Dwarves may move slowly, but they are strong. Use abilities that buff you on your next turn."
+    },
+    {
+      "id": 1153,
+      "name": "Mountaineers",
+      "setId": 1001,
+      "author": "ludichrisness, normieleon",
+      "complexity": "3/5",
+      "description": "Start your climb with small minions, then jump off them for big plays to try to break bases. Quickly recover from failures to try again."
+    },
+    {
+      "id": 1154,
+      "name": "Musical Theatre",
+      "setId": 1001,
+      "author": "SirErrant",
+      "complexity": "3/5",
+      "description": "Join this ensemble cast as they use Energy to put on Special performances before/after a base scores."
+    },
+    {
+      "id": 1155,
+      "name": "Naga",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3.5/5",
+      "description": "Bury minions defensively and swarm chain uncover minions to break bases."
+    },
+    {
+      "id": 1156,
+      "name": "Nanobugs",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "2.5/5",
+      "description": "Build an unstoppable army of robotic insects to swarm bases and get rid of other players’ cards."
+    },
+    {
+      "id": 1157,
+      "name": "Naruto",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3/5",
+      "description": "Use your extra deck for more utility when you play main characters and swarm the base with shadow clones."
+    },
+    {
+      "id": 1158,
+      "name": "Narwhals",
+      "setId": 1001,
+      "author": "Onassi, Berryl",
+      "complexity": "2.5/5",
+      "description": "Play no standard actions when setting up, then chain all of them together at once."
+    },
+    {
+      "id": 1159,
+      "name": "Necrodancers",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "3.5/5",
+      "description": "Zombify your minions into Undead monsters, then harness the power of the Undead to swing bases."
+    },
+    {
+      "id": 1160,
+      "name": "Necrons",
+      "setId": 1001,
+      "author": "Ludum",
+      "complexity": "3/5",
+      "description": "Put your minions in stasis for benefits, swarm bases and plan power bursts to break them."
+    },
+    {
+      "id": 1161,
+      "name": "Night Elves",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "2.5/5",
+      "description": "Sneak on to bases at the last minute with Night Elf Trickery and grow power with your nurture of natural forces."
+    },
+    {
+      "id": 1162,
+      "name": "Nobles",
+      "setId": 1001,
+      "author": "SirErrant",
+      "complexity": "2/5",
+      "description": "Crush the Filthy Peasants under your heel while exploiting the power you gain from being outnumbered on a base."
+    },
+    {
+      "id": 1163,
+      "name": "Noble Dogs",
+      "setId": 1001,
+      "author": "Colinus Haggardus",
+      "complexity": "2/5",
+      "description": "Alter the lines of authority with these commanding canines and take control of other players' minions to march your way to victory."
+    },
+    {
+      "id": 1164,
+      "name": "Occult Investigators",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "3/5",
+      "description": "Flirt with Madness with this Hello World! faction as you quickly draw through your deck, stashing cards inside the Madness deck to be played at the perfect moment."
+    },
+    {
+      "id": 1165,
+      "name": "Olympians",
+      "setId": 1001,
+      "author": "Onassi",
+      "complexity": "3/5",
+      "description": "Push your minions to their limit by increasing both their power and other players' minions, as well as increase the breakpoint, and then compete."
+    },
+    {
+      "id": 1166,
+      "name": "Oozes",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "2/5",
+      "description": "Trap your rivals in ooze as you slowly but inexorably dissolve their cards."
+    },
+    {
+      "id": 1167,
+      "name": "Oracles",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "2/5",
+      "description": "Grow stronger the more information you reveal to opponents, and unlock your cards' potential by presenting them."
+    },
+    {
+      "id": 1168,
+      "name": "Orcish Horde",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "1.5/5",
+      "description": "Stomp through bases brutishly with the orcish horde by destroying, protecting, and sneaking as you see fit."
+    },
+    {
+      "id": 1169,
+      "name": "Ori",
+      "setId": 1001,
+      "author": "Bandit",
+      "complexity": "3/5",
+      "description": "Substitute action plays for useful effects while you prepare powerful extended Skill chains."
+    },
+    {
+      "id": 1170,
+      "name": "Outer Ones",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "4/5",
+      "description": "Draw benefits from from Madness cards, share them with other players, and accumulate them to summon the incomprehensible Azathoth."
+    },
+    {
+      "id": 1171,
+      "name": "Over The Garden Wall",
+      "setId": 1001,
+      "author": "AndIQuote",
+      "complexity": "3/5",
+      "description": "Force all players to draw Madness cards to trigger powerful abilities and manipulate your Madness from the discard pile."
+    },
+    {
+      "id": 1172,
+      "name": "Painters",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "3.5/5",
+      "description": "Play with a unique cast of six artists who use Energy to copy the attributes of other cards."
+    },
+    {
+      "id": 1173,
+      "name": "Paladins (Onassi)",
+      "setId": 1001,
+      "author": "Onassi",
+      "complexity": "3/5",
+      "description": "Enforce righteousness by drafting two of five subdecks to fill out the rest of your deck."
+    },
+    {
+      "id": 1174,
+      "name": "Paladins (Sonus)",
+      "setId": 1001,
+      "author": "Sonus",
+      "complexity": "1/5",
+      "description": "Play helpful actions on your minions that offer protection, power, and generate +1 power counters."
+    },
+    {
+      "id": 1175,
+      "name": "Pale Court",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "3.5/5",
+      "description": "Keep players off your chosen bases for solo scores."
+    },
+    {
+      "id": 1176,
+      "name": "Pandas",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "1.5/5",
+      "description": "Passively grow over time, block opponents' avenues of play, and gain advantages for having large minions."
+    },
+    {
+      "id": 1177,
+      "name": "Pastry Chefs",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "4.5/5",
+      "description": "Draw actions from your deck and prepare future abilities while you bake devastating yet delicious Cakes over multiple turns."
+    },
+    {
+      "id": 1178,
+      "name": "Petrichor V",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "3/5",
+      "description": "Aliens have crash landed on your planet, threatening the creatures that call this place home. Choose from five mini-factions at the start of the game to create the perfect deck, then remove them from your sanctuary with the ancient Artifact abilities."
+    },
+    {
+      "id": 1179,
+      "name": "Phantom Thieves",
+      "setId": 1001,
+      "author": "SirErrant",
+      "complexity": "3/5",
+      "description": "Steal the hearts of corrupt individuals with these 10 ordinary high schoolers, each of whom swap into their linked Personas to become masked heroes of justice."
+    },
+    {
+      "id": 1180,
+      "name": "Phoenixes",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "2.5/5",
+      "description": "Put your minions through the cycle of life, perpetually destroying them and bringing them back from the ashes."
+    },
+    {
+      "id": 1181,
+      "name": "Physicists",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "2/5",
+      "description": "Manipulate +1 power counters to activate the abilities of these seasonally scary scientists. Trick-or-treat!"
+    },
+    {
+      "id": 1182,
+      "name": "Pizza Delivery",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "4/5",
+      "description": "Order pizzas for later and have everything ready to smash for when they arrive."
+    },
+    {
+      "id": 1183,
+      "name": "Plague Doctors",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "2/5",
+      "description": "Weaken other players' minions with Corrosion, then strike when those minions are at their weakest."
+    },
+    {
+      "id": 1184,
+      "name": "Plumber Sisters",
+      "setId": 1001,
+      "author": "Grey Sherpa",
+      "complexity": "3/5",
+      "description": "Use powerful play-on-minion actions and movement to hit hard and stay on the board."
+    },
+    {
+      "id": 1185,
+      "name": "Pokémon",
+      "setId": 1001,
+      "author": "Lime17",
+      "complexity": "3/5",
+      "description": "Use ten unique minions to weaken bases, position yourself for later turns, and burst when the time is right with power gain and extra plays."
+    },
+    {
+      "id": 1186,
+      "name": "Pop Stars",
+      "setId": 1001,
+      "author": "SirErrant",
+      "complexity": "2/5",
+      "description": "Take center stage with this Hello World! faction, which uses searching to turn temporary power into new minions with powerful abilities."
+    },
+    {
+      "id": 1187,
+      "name": "Popeye",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "3/5",
+      "description": "Feed the board with your cards until it's time for a Spinach rush."
+    },
+    {
+      "id": 1188,
+      "name": "Predators",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3/5",
+      "description": "Use Marks to designate opponents worthy of destruction, capture minions, and use them for a future power boost."
+    },
+    {
+      "id": 1189,
+      "name": "Preppers",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3.5/5",
+      "description": "Accumulate power and resources inside a safe Bunker and burst out to break bases."
+    },
+    {
+      "id": 1190,
+      "name": "Primate Defense League",
+      "setId": 1001,
+      "author": "Colinus Haggardus",
+      "complexity": "3/5",
+      "description": "Play and upgrade powerful minions. Send balloons to your opponents to hinder them, or pop them to gain special bonuses."
+    },
+    {
+      "id": 1191,
+      "name": "Psychics",
+      "setId": 1001,
+      "author": "Onassi",
+      "complexity": "4/5",
+      "description": "Play minions with higher than average power but negative abilities, and cancel those abilities to unlock new ones."
+    },
+    {
+      "id": 1192,
+      "name": "Pyromaniacs",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "2.5/5",
+      "description": "Set fire to bases and whittle away at their breakpoint or explode them. Gain breakpoint reductions as you burn and blow things up."
+    },
+    {
+      "id": 1193,
+      "name": "Quantum Physicists",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "2/5",
+      "description": "Move your minions wherever you want and keep your turn flexible with OR abilities."
+    },
+    {
+      "id": 1194,
+      "name": "Ranger's Apprentice: The Main Characters",
+      "setId": 1001,
+      "author": "Sibeskia Faithful",
+      "complexity": "4/5",
+      "description": "Hide minions, draw cards, gain extra actions, and strike from the shadows. Your opponents won't know what hit them."
+    },
+    {
+      "id": 1195,
+      "name": "Rangers",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "3/5",
+      "description": "Track your foes and take them down when it matters most."
+    },
+    {
+      "id": 1196,
+      "name": "Rappers",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "2.5/5",
+      "description": "Play actions off the top of your deck in rap-battling duels."
+    },
+    {
+      "id": 1197,
+      "name": "Rebel Alliance (Berryl)",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "2/5",
+      "description": "Surprise your foes by chaining lots of special abilities all at once."
+    },
+    {
+      "id": 1198,
+      "name": "Rebel Alliance (LordMewtwo73)",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "2.5/5",
+      "description": "Unlock the full potential of your cards' abilities when other players have more VP than you."
+    },
+    {
+      "id": 1199,
+      "name": "Rebels",
+      "setId": 1001,
+      "author": "AndIQuote",
+      "complexity": "2.5/5",
+      "description": "Place +1 power counters on opposing minions and then take advantage of them once powered up."
+    },
+    {
+      "id": 1200,
+      "name": "Redwallers",
+      "setId": 1001,
+      "author": "phantomic109, 10037",
+      "complexity": "3/5",
+      "description": "Defend bases from other players' cards and score by yourself."
+    },
+    {
+      "id": 1201,
+      "name": "Rival Tech",
+      "setId": 1001,
+      "author": "Normieleon",
+      "complexity": "3.5/5",
+      "description": "Manipulate your hand size and set up your prospecting operations to guarantee access to your best cards through brutal corporate efficiency."
+    },
+    {
+      "id": 1202,
+      "name": "Rogues",
+      "setId": 1001,
+      "author": "SirErrant",
+      "complexity": "3/5",
+      "description": "Take advantage of your expertise in thievery to manipulate and gain benefits from stored cards. Watch out for their Sneak Attack!"
+    },
+    {
+      "id": 1203,
+      "name": "Safari",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "2/5",
+      "description": "Gain benefits from movement."
+    },
+    {
+      "id": 1204,
+      "name": "Saiyans",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3/5",
+      "description": "Gain power to break bases through placing and moving +1 power counters on/from actions and minions."
+    },
+    {
+      "id": 1205,
+      "name": "Sasquatches",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3/5",
+      "description": "Swarm elusive minions from a shadowy forest that disappear and reappear without a trace."
+    },
+    {
+      "id": 1206,
+      "name": "Scavengers",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "2.5/5",
+      "description": "A Hello World! faction revolving around trashing cards in your hand and boosting power during other player's turns."
+    },
+    {
+      "id": 1207,
+      "name": "Selkies",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "2/5",
+      "description": "Waste rival minions on low value bases you intend to lose, while controlling the high value bases in play."
+    },
+    {
+      "id": 1208,
+      "name": "Separatists",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "1.5/5",
+      "description": "Overwhelm your foes with an army of easy-to-play droid minions that can also be destroyed for extra card draw."
+    },
+    {
+      "id": 1209,
+      "name": "Shadows",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "3/5",
+      "description": "Play from behind, then surge in power when you take the lead."
+    },
+    {
+      "id": 1210,
+      "name": "Shiranui",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "4/5",
+      "description": "Use your minions that are in play or in the discard pile as cost to play minions from your extra deck as extra minions."
+    },
+    {
+      "id": 1211,
+      "name": "Shonen Fighters",
+      "setId": 1001,
+      "author": "Blim Blonker, AndIQuote",
+      "complexity": "4/5",
+      "description": "Train hard, engage in climactic duels with your opponents, and even recruit their minions to your side after defeating them."
+    },
+    {
+      "id": 1212,
+      "name": "The Simpsons (Colinus)",
+      "setId": 1001,
+      "author": "Colinus Haggardus",
+      "complexity": "2/5",
+      "description": "Play minions of wacky, crazy power, grow more powerful as more Simpsons come into play, and leave your opponents saying \"D'oh!\""
+    },
+    {
+      "id": 1213,
+      "name": "The Simpsons (Lonan)",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3/5",
+      "description": "Prank others with specials and use as little effort as possible to win bases."
+    },
+    {
+      "id": 1214,
+      "name": "Simulators",
+      "setId": 1001,
+      "author": "Onassi",
+      "complexity": "5/5",
+      "description": "Manipulate reality by playing Programs that alter the abilities of bases."
+    },
+    {
+      "id": 1215,
+      "name": "Sketchy Housing",
+      "setId": 1001,
+      "author": "Onassi",
+      "complexity": "3.5/5",
+      "description": "Add and remove counters to and from cards, especially Energy, and house some of your minions as base modifiers."
+    },
+    {
+      "id": 1216,
+      "name": "Slashers",
+      "setId": 1001,
+      "author": "Chuckyscookie",
+      "complexity": "3/5",
+      "description": "Destroy your own minions for benefits and whittle the survivors down to The Final Girl."
+    },
+    {
+      "id": 1217,
+      "name": "Slimes",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "3/5",
+      "description": "Slowly gain potential energy by splitting and merging your minions."
+    },
+    {
+      "id": 1218,
+      "name": "Smash (Up) Mouth",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "?/5",
+      "description": "Hey now, here's some All Stars! Like the official Smash Up All Stars and World Champs, this faction showcases fan favorites from Smash Up history."
+    },
+    {
+      "id": 1219,
+      "name": "Snackmancers",
+      "setId": 1001,
+      "author": "Onassi",
+      "complexity": "4.5/5",
+      "description": "Lure an opponent with Snacks and make them choose between fattening up their minions or allowing you to reap the rewards instead."
+    },
+    {
+      "id": 1220,
+      "name": "Snipers",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3/5",
+      "description": "Place counters on other bases and snipe them or other players' minoins from afar."
+    },
+    {
+      "id": 1221,
+      "name": "Soda",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "3.5/5",
+      "description": "Surge in potential when bases are fresh on the board."
+    },
+    {
+      "id": 1222,
+      "name": "Soul Sanctum",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "4/5",
+      "description": "Wield powerful engines that can fail catastrophically if not maintained."
+    },
+    {
+      "id": 1223,
+      "name": "Soul Train",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "4/5",
+      "description": "Imbue your minions with the soul of the cards you discard. Play your lower-powered minions from outside your hand."
+    },
+    {
+      "id": 1224,
+      "name": "Soup",
+      "setId": 1001,
+      "author": "AndIQuote",
+      "complexity": "4/5",
+      "description": "Toss ingredients from your hand, deck, and discard pile into a bubbling pot of soup to produce delicious results with stored cards."
+    },
+    {
+      "id": 1225,
+      "name": "Spacegirl Squad",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "1.5/5",
+      "description": "Power up your minions and gain benefits from it. Setup and execute a big burst play."
+    },
+    {
+      "id": 1226,
+      "name": "Space Commandos",
+      "setId": 1001,
+      "author": "Onassi",
+      "complexity": "1/5",
+      "description": "Reduce the breakpoint of a base from afar, and score by closing in on it."
+    },
+    {
+      "id": 1227,
+      "name": "Space Realm",
+      "setId": 1001,
+      "author": "Sonus",
+      "complexity": "4/5",
+      "description": "Play on the most recently played base for extra benefits. Lower breakpoints and play extra bases."
+    },
+    {
+      "id": 1228,
+      "name": "Sphinxes",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "2.5/5",
+      "description": "Become a master of riddles by forcing your opponents to make hard choices and corner them into no-win situations. Llet your opponent be the cause of their own unmaking."
+    },
+    {
+      "id": 1229,
+      "name": "Spicy Entrées",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3/5",
+      "description": "Place and manipulate negative power counters (-1 power counters). Gain benefits from negative power counters."
+    },
+    {
+      "id": 1230,
+      "name": "Squirrel",
+      "setId": 1001,
+      "author": "Cat&dungeons1",
+      "complexity": "4/5",
+      "description": "Create copy of Squirrel to sacrifice them to win! Offers a new way to play!"
+    },
+    {
+      "id": 1231,
+      "name": "Stardust Crusaders",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "3/5",
+      "description": "Use big minions with linked actions to cause massive damage before bases score."
+    },
+    {
+      "id": 1232,
+      "name": "Stegos",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "3.5/5",
+      "description": "Is Armor Stego your favorite minion in Smash Up? Well look no further, because this faction will fulfill all of your wildest CAM dreams!"
+    },
+    {
+      "id": 1233,
+      "name": "Stephen Troopers",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "1.5/5",
+      "description": "Get name-based benefits by deploying and powering up your minions, who are all named Stephen."
+    },
+    {
+      "id": 1234,
+      "name": "Stickmen",
+      "setId": 1001,
+      "author": "Colinus Haggardus",
+      "complexity": "2/5",
+      "description": "Use the power of the imagination to bring ideas to life and jump back quickly from rejected ideas."
+    },
+    {
+      "id": 1235,
+      "name": "Storm Orcs",
+      "setId": 1001,
+      "author": "Sonus",
+      "complexity": "2/5",
+      "description": "Chain multiple small instances of gaining power in a turn among multiple minions."
+    },
+    {
+      "id": 1236,
+      "name": "Storytellers",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "4.5/5",
+      "description": "Create a Story-based engine that your minions can interpret however they like."
+    },
+    {
+      "id": 1237,
+      "name": "Straw Hats",
+      "setId": 1001,
+      "author": "phantomic109, Captain Cardboard",
+      "complexity": "3/5",
+      "description": "Move your minions around and gain advantages by scoring more bases."
+    },
+    {
+      "id": 1238,
+      "name": "Streets of Fire",
+      "setId": 1001,
+      "author": "AndIQuote",
+      "complexity": "2/5",
+      "description": "Carefully build up your resources by trading action plays for other benefits before unleashing precise, powerful attacks on bases."
+    },
+    {
+      "id": 1239,
+      "name": "Summoners",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "5/5",
+      "description": "Summon minions and titans from other factions not being played this game."
+    },
+    {
+      "id": 1240,
+      "name": "Sun Gods",
+      "setId": 1001,
+      "author": "SirErrant",
+      "complexity": "4/5",
+      "description": "Harness the radiant Energy of the Sun Gods, biding your time with stasis counters before bursting forth with glorious power."
+    },
+    {
+      "id": 1241,
+      "name": "Super Anime Swordfighters",
+      "setId": 1001,
+      "author": "SirErrant",
+      "complexity": "3.5/5",
+      "description": "Play with a roster of Super Smash Bros. fighters armed with special Blades who specialize in seeing and changing the future."
+    },
+    {
+      "id": 1242,
+      "name": "Super Mario Bros.",
+      "setId": 1001,
+      "author": "bae gel",
+      "complexity": "2/5",
+      "description": "One-up the competition with an assortment of useful power-ups, and gain benefits for having characters with modifiers on them."
+    },
+    {
+      "id": 1243,
+      "name": "Suppervillains",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "4/5",
+      "description": "Take advantage of other players' rare minions to advance your Schemes."
+    },
+    {
+      "id": 1244,
+      "name": "Survivors (RoR1)",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "3/5",
+      "description": "Team up with your fellow survivors and utilize various equipment and weapons to keep yourself alive. Choose from five different mini-factions to change up your deck in each game."
+    },
+    {
+      "id": 1245,
+      "name": "The Sword in the Stone (AndIQuote)",
+      "setId": 1001,
+      "author": "AndIQuote",
+      "complexity": "3/5",
+      "description": "Use your wits and knowledge to plan ahead, driving strategies and opportunities around the cards on top of your deck."
+    },
+    {
+      "id": 1246,
+      "name": "The Sword in the Stone (Crossfire7)",
+      "setId": 1001,
+      "author": "Crossfire7",
+      "complexity": "3/5",
+      "description": "Draw and play Sword actions, increase the power of characters, and benefit from controlling characters of power 5 or more."
+    },
+    {
+      "id": 1247,
+      "name": "Symbiotes",
+      "setId": 1001,
+      "author": "LordMewtwo73",
+      "complexity": "4/5",
+      "description": "Attach the symbiote to your minions to give them enhanced and increasing power, at the cost of their eventual demise. Transform into special symbiote minions from the Linked deck to unleash their true potential."
+    },
+    {
+      "id": 1248,
+      "name": "Tacolytes",
+      "setId": 1001,
+      "author": "CaptainCosmic and ludichrisness",
+      "complexity": "3/5",
+      "description": "Add new flavors to your Madness cards and devour them to rush the bases before things gets too crazy."
+    },
+    {
+      "id": 1249,
+      "name": "Tattooists",
+      "setId": 1001,
+      "author": "Onassi",
+      "complexity": "3/5",
+      "description": "Search your deck for an action and place it on a minion - even if it's not a minion modifier."
+    },
+    {
+      "id": 1250,
+      "name": "Tau",
+      "setId": 1001,
+      "author": "Sonus",
+      "complexity": "2/5",
+      "description": "Use Drones (these are PoBs) to support your minions. Benefits for spreading your cards out to then converge later. Slow down bases while building up, and use their Drones to protect against solos."
+    },
+    {
+      "id": 1251,
+      "name": "Team Z",
+      "setId": 1001,
+      "author": "Lime17",
+      "complexity": "2.5/5",
+      "description": "Either use risky maneuvers to score bases with just one minion for great rewards, or stack minions on a base to build and burst power safely. Use movement and your titan to help you achieve both."
+    },
+    {
+      "id": 1252,
+      "name": "Team Fortress 2",
+      "setId": 1001,
+      "author": "GammaMania",
+      "complexity": "3/5",
+      "description": "Use a cast of ten unique mercenaries to complete objectives on base modifiers for VP."
+    },
+    {
+      "id": 1253,
+      "name": "Ten Little Soldier Boys",
+      "setId": 1001,
+      "author": "AndIQuote",
+      "complexity": "3.5/5",
+      "description": "Play with a cast of ten unique minions and trigger powerful effects as the number of minions in the discard pile grows."
+    },
+    {
+      "id": 1254,
+      "name": "Terminators",
+      "setId": 1001,
+      "author": "Crossfire7",
+      "complexity": "3/5",
+      "description": "Terminators from the future seek to destroy their targets, especially before bases score, and persist after going to the discard pile in the form of horrifying Endoskeletons."
+    },
+    {
+      "id": 1255,
+      "name": "Three Houses",
+      "setId": 1001,
+      "author": "SirErrant",
+      "complexity": "3.5/5",
+      "description": "Lead students into battle, granting powerful relic weapons to the right users to strengthen their abilities."
+    },
+    {
+      "id": 1256,
+      "name": "Thrifters",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "3/5",
+      "description": "Give your cards a second-hand use when they are in your discard pile."
+    },
+    {
+      "id": 1257,
+      "name": "Ticket to Ride",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "4/5",
+      "description": "Spread Train cars out and hold their tickets in hand to go on as long a train ride as possible."
+    },
+    {
+      "id": 1258,
+      "name": "Time Realm",
+      "setId": 1001,
+      "author": "Sonus",
+      "complexity": "5/5",
+      "description": "Skip plays on a future turn to strengthen the current turn."
+    },
+    {
+      "id": 1259,
+      "name": "Tom Bombadil",
+      "setId": 1001,
+      "author": "CaptainCosmic and ludichrisness",
+      "complexity": "4/5",
+      "description": "Play with a reduced cast of merry fellows and their collection of Rhymes that let you drastically change what your cards do."
+    },
+    {
+      "id": 1260,
+      "name": "Trebuchets",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "4/5",
+      "description": "Load your cards on your cards to release them in a massive turn of extra plays."
+    },
+    {
+      "id": 1261,
+      "name": "TrollHunters",
+      "setId": 1001,
+      "author": "Colinus Haggardus",
+      "complexity": "2/5",
+      "description": "Duel your opponents and assert your dominance on bases."
+    },
+    {
+      "id": 1262,
+      "name": "Trolls",
+      "setId": 1001,
+      "author": "nanpaCrown",
+      "complexity": "3/5",
+      "description": "Use the dancestor’s deaths to bring in beta trolls which care about rare minion quantity"
+    },
+    {
+      "id": 1263,
+      "name": "Tuckskin Rikers",
+      "setId": 1001,
+      "author": "Snakevin",
+      "complexity": "3/5",
+      "description": "Force your opponents to bury cards for you to either destroy or take for yourself."
+    },
+    {
+      "id": 1264,
+      "name": "Twilight Struggle",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "5/5",
+      "description": "Control the tempo of the game by dictating how your rivals are allowed to play while you prepare for the possibility of nuclear war."
+    },
+    {
+      "id": 1265,
+      "name": "Tyranids",
+      "setId": 1001,
+      "author": "Ludum",
+      "complexity": "3/5",
+      "description": "Spread your minions among bases, gather your troops to break them and steal the victory at the last minute."
+    },
+    {
+      "id": 1266,
+      "name": "Undead Scourge",
+      "setId": 1001,
+      "author": "Lonan",
+      "complexity": "3.5/5",
+      "description": "Skeletonize and control minions when destroying them or by summoning them from any player's discard pile. Swarm bases with your army of the dead."
+    },
+    {
+      "id": 1267,
+      "name": "Unseelies",
+      "setId": 1001,
+      "author": "Ludichrisness",
+      "complexity": "4/5",
+      "description": "Sling your stronger minions for their abilities while sneaking past traps which punish all players."
+    },
+    {
+      "id": 1268,
+      "name": "Urban Architects",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "3.5/5",
+      "description": "Manipulate breakpoints to take advantage of your cards' abilities. Gain momentum from breakpoint changes."
+    },
+    {
+      "id": 1269,
+      "name": "Vessels",
+      "setId": 1001,
+      "author": "Berryl",
+      "complexity": "4/5",
+      "description": "Keep equity on your minions all game long."
+    },
+    {
+      "id": 1270,
+      "name": "Vs. Spiders",
+      "setId": 1001,
+      "author": "Georg",
+      "complexity": "4/5",
+      "description": "Spread Webs and ensnare opposing minions while infesting the field with lots of small spider minions."
+    },
+    {
+      "id": 1271,
+      "name": "Wakanda",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "3/5",
+      "description": "Combine the forces of two different Tribes and upgrade cards with Vibranium to force your rivals out of your home territory."
+    },
+    {
+      "id": 1272,
+      "name": "Warmages",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "3.5/5",
+      "description": "Launch powerful actions into the air to burn down bases and to eliminate rivals before the base scores."
+    },
+    {
+      "id": 1273,
+      "name": "Water Realm",
+      "setId": 1001,
+      "author": "Sonus",
+      "complexity": "2/5",
+      "description": "Draw cards, gain power and plays from drawing cards, and wash away bases and weak minions. Can also protect you from bases and abilities!"
+    },
+    {
+      "id": 1274,
+      "name": "Weirdos",
+      "setId": 1001,
+      "author": "WisdomEnvy",
+      "complexity": "4/5",
+      "description": "Play minions with threatening specials. Swing bases before scoring, or trigger your abilities early to score on your own."
+    },
+    {
+      "id": 1275,
+      "name": "Whales",
+      "setId": 1001,
+      "author": "Gecko",
+      "complexity": "2.5/5",
+      "description": "Move minions around to activate abilities that retrieve cards or add power. Set off a chain of movement by Migrating."
+    },
+    {
+      "id": 1276,
+      "name": "Wingspan",
+      "setId": 1001,
+      "author": "Onassi",
+      "complexity": "2/5",
+      "description": "Build an engine by nesting your minions on bases and play additional minions there. Make use of the Bonus Card side deck."
+    },
+    {
+      "id": 1277,
+      "name": "Witches",
+      "setId": 1001,
+      "author": "ludichrisness",
+      "complexity": "4/5",
+      "description": "Cast Hexes and power them up with different kinds of counters and cards to benefit you or hurt others."
+    },
+    {
+      "id": 1278,
+      "name": "Wolverine Corps.",
+      "setId": 1001,
+      "author": "Colinus Haggardus",
+      "complexity": "2/5",
+      "description": "Gain a permanent foothold with the most ruthless animal military unit and storm your way to victory."
+    },
+    {
+      "id": 1279,
+      "name": "World Archery",
+      "setId": 1001,
+      "author": "Sibeskia Faithful",
+      "complexity": "2.5/5",
+      "description": "Build up your power with training and cards, then when the moment is right, take your shot and win."
+    },
+    {
+      "id": 1280,
+      "name": "Wretched Pigmen",
+      "setId": 1001,
+      "author": "CaptainCosmic",
+      "complexity": "2/5",
+      "description": "Arrange your deck and swarm the board with swine."
+    },
+    {
       "id": 1281,
-      "setId": 1001
+      "name": "X-Nauts",
+      "setId": 1001,
+      "author": "AndIQuote",
+      "complexity": "1.5/5",
+      "description": "A Hello World! faction with an emphasis on converting excess power into breakpoint damage and additional VP."
     }
   ]
 }
