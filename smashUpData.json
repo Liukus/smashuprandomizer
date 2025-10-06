@@ -279,6 +279,24 @@
       "releaseDate": "2025-08-26",
       "factionCount": 4,
       "description": "80s action cartoon parodies"
+    },
+        {
+      "id": 32,
+      "name": "Smash Up: Slashers",
+      "type": "promo",
+      "status": "active",
+      "releaseDate": "2023-08-26",
+      "factionCount": 1,
+      "description": "Single faction promotional pack"
+    },
+    {
+      "id": 33,
+      "name": "Smash Up: Clowns",
+      "type": "promo",
+      "status": "active",
+      "releaseDate": "2025-08-26",
+      "factionCount": 1,
+      "description": "Single faction promotional pack"
     }
   ],
   "factions": [
@@ -1009,6 +1027,20 @@
       "setId": 31,
       "theme": "80s Cartoons",
       "description": "He-Man parody faction"
+    },
+    {
+      "id": 105,
+      "name": "Slashers",
+      "setId": 32,
+      "theme": "Famous Movie Slashers",
+      "description": "Destruction, power counters, recursion, unique weapons."
+    },
+   {
+      "id": 106,
+      "name": "Clowns",
+      "setId": 33,
+      "theme": "Clowns",
+      "description": "Replay standard actions from discard for power boost"
     }
   ]
 }
